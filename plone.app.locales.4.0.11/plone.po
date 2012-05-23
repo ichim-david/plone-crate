@@ -1,6 +1,7 @@
 # Translation of plone.pot to Romanian
 # Marian Anghel <marian@asplinux.ro>, 2003
 # Tiberiu Ichim <tibi@life.org.ro>, 2004
+# David Ichim <ichim.david@gmail.com> 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
@@ -41,19 +42,19 @@ msgstr ""
 
 #: CMFPlone/skins/plone_scripts/folder_copy.cpy:33
 msgid "${count} item(s) copied."
-msgstr ""
+msgstr "${count} elemente copiate."
 
 #: CMFPlone/skins/plone_scripts/folder_cut.cpy:37
 msgid "${count} item(s) cut."
-msgstr ""
+msgstr "${count} elemente taiate."
 
 #: CMFPlone/skins/plone_scripts/folder_rename.cpy:48
 msgid "${count} item(s) renamed."
-msgstr ""
+msgstr "${count} elemente redenumite."
 
 #: CMFPlone/skins/plone_scripts/folder_delete.cpy:65
 msgid "${items} could not be deleted."
-msgstr ""
+msgstr "${items} nu a putut fi sters."
 
 #. Default: "${monthname} ${year}"
 #: CMFPlone/skins/plone_templates/calendar_macros.pt:257
@@ -64,15 +65,15 @@ msgstr "${monthname} ${year}"
 
 #: CMFPlone/skins/plone_scripts/check_id.py:74
 msgid "${name} is not a legal name. The following characters are invalid: ${characters}"
-msgstr ""
+msgstr "${name} nu este un nume legal. Urmatoarele caractere sunt invalide: ${characters}"
 
 #: CMFPlone/skins/plone_scripts/check_id.py:65
 msgid "${name} is reserved."
-msgstr ""
+msgstr "${name} este rezervat."
 
 #: CMFPlone/skins/plone_login/logged_out.cpt:48
 msgid "${text_logged_out_link} and click 'Cancel' when prompted with an authentication prompt."
-msgstr ""
+msgstr "${text_logged_out_link} si fa click pe 'Anuleaza' cand apare casuta de autentificare."
 
 #: CMFPlone/skins/plone_scripts/object_copy.cpy:37
 msgid "${title} copied."
@@ -89,12 +90,12 @@ msgstr "${title} a fost sters."
 
 #: CMFPlone/skins/plone_scripts/object_cut.cpy:34
 msgid "${title} is locked and cannot be cut."
-msgstr ""
+msgstr "${title} este incuiat si nu poate fi taiat."
 
 #: CMFPlone/skins/plone_form_scripts/delete_confirmation.cpy:30
 #: CMFPlone/skins/plone_scripts/object_delete.cpy:31
 msgid "${title} is locked and cannot be deleted."
-msgstr ""
+msgstr "${title} este incuiat si nu poate fi sters."
 
 #: CMFPlone/skins/plone_scripts/object_copy.cpy:32
 msgid "${title} is not copyable."
@@ -106,15 +107,15 @@ msgstr "${title} nu poate fi mutat."
 
 #: CMFPlone/skins/plone_scripts/createObject.cpy:49
 msgid "${tname} has been created."
-msgstr ""
+msgstr "${tname} a fost creat."
 
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:21
 msgid "(Requires JavaScript)"
-msgstr ""
+msgstr "(Necesita JavaScript)"
 
 #: plone.app.vocabularies/plone/app/vocabularies/skins.py:60
 msgid "(Unstyled)"
-msgstr ""
+msgstr "(Nestilizat)"
 
 #. Default: "- An intranet workflow where content is only accessible if you are logged in. - Basic states are: Internal Draft, Pending Review, Internally Published and Private. - Also has an Externally Published state, so you can make selected content available to people outside the intranet."
 #: CMFPlone/profiles/default/workflows/intranet_workflow/definition.xml
@@ -148,19 +149,19 @@ msgstr ""
 
 #: plone.locking/plone/locking/browser/locking.py:124
 msgid "1 minute"
-msgstr ""
+msgstr "1 minut"
 
 #: CMFPlone/skins/plone_deprecated/search_form.pt:411
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #: CMFPlone/skins/plone_deprecated/search_form.pt:414
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #: CMFPlone/skins/plone_deprecated/search_form.pt:417
 msgid "90"
-msgstr ""
+msgstr "90"
 
 #: ./plone.app.registry/plone/app/registry/configure.zcml
 msgid "A 'Mozilla about:config' style configuration registry"
@@ -177,11 +178,11 @@ msgstr "Criteriu bulean"
 
 #: plone.app.portlets/plone/app/portlets/portlets/classic.py:60
 msgid "A classic portlet allows you to use legacy portlet templates."
-msgstr ""
+msgstr "Un portlet clasic iti permite sa folosesti sabloane clasice."
 
 #: plone.app.contentrules/plone/app/contentrules/actions/copy.py:134
 msgid "A copy action can copy an object to a different folder."
-msgstr ""
+msgstr "O actiune de copiat poate copia un obiect catre un folder diferit."
 
 #. Default: "A criterion that searches for the currently logged in user's id"
 #: CMFPlone/profiles/default/types/ATCurrentAuthorCriterion.xml
@@ -242,55 +243,55 @@ msgstr "Un criteriu de portal_types"
 
 #: plone.portlet.static/plone/portlet/static/profiles/default/portlets.xml
 msgid "A portlet which can display static HTML text."
-msgstr ""
+msgstr "Un portlet care poate sa afiseze text static HTML"
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which can receive and render an RSS feed."
-msgstr ""
+msgstr "Un portlet care poate primi si reda un RSS feed."
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which can render a calendar."
-msgstr ""
+msgstr "Un portlet ce poate afisa un calendar."
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which can render a classic template-based portlet"
-msgstr ""
+msgstr "Un portlet ce poate afisa sabloane clasice"
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which can render a listing of recent events"
-msgstr ""
+msgstr "Un portlet ce poate afisa o listare a evenimentelor recente"
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which can render a listing of recent news"
-msgstr ""
+msgstr "Un portlet ce poate afisa o listare a stirilor recente"
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which can render a listing of recently changed items."
-msgstr ""
+msgstr "Un portlet ce poate afisa o listare a elementelor schimbate recent."
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which can render a listing on the review queue."
-msgstr ""
+msgstr "Un portlet ce poate afisa o listare a elementelor ce trebuie analizate."
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which can render a log-in box"
-msgstr ""
+msgstr "Un portlet ce poate afisa o casuta de autentificare"
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which can render a navigation tree"
-msgstr ""
+msgstr "Un portlet ce poate afisa navigarea"
 
 #: plone.app.openid/plone/app/openid/profiles/default/portlets.xml
 msgid "A portlet which can render an OpenID log-in box"
-msgstr ""
+msgstr "Un portlet ce poate afisa o casuta de autentificare tip OpenID"
 
 #: plone.portlet.collection/plone/portlet/collection/profiles/default/portlets.xml
 msgid "A portlet which displays the results of a collection query"
-msgstr ""
+msgstr "Un portlet ce afiseaza rezultatele interogarii a unei colectie"
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "A portlet which shows a search box."
-msgstr ""
+msgstr "Un portlet ce afiseaza casuta de cautare"
 
 #. Default: "A reference criterion"
 #: CMFPlone/profiles/default/types/ATReferenceCriterion.xml
@@ -305,7 +306,7 @@ msgstr "Un criteriu de data relativ"
 #. Default: "A relative path criterion"
 #: CMFPlone/profiles/default/types/ATRelativePathCriterion.xml
 msgid "A relative path criterion"
-msgstr ""
+msgstr "Un criteriu de cale relativ"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/role.py:72
 msgid "A role condition can prevent rules from executing unless the current user has a particular role."
@@ -318,7 +319,7 @@ msgstr "Un criteriu de selectie"
 
 #: CMFPlone/browser/templates/plone-addsite.pt:59
 msgid "A short title for the site. This will be shown in the title of the browser window on each page."
-msgstr ""
+msgstr "Un scurt titlu pentru site. Acesta va fi afisat in titlul ferestrei browser-ului pe fiecare pagina."
 
 #. Default: "A simple int criterion"
 #: CMFPlone/profiles/default/types/ATSimpleIntCriterion.xml
@@ -328,7 +329,7 @@ msgstr "Un criteriu de intreg simplu"
 #. Default: "A simple string criterion"
 #: CMFPlone/profiles/default/types/ATSimpleStringCriterion.xml
 msgid "A simple string criterion"
-msgstr "Un criteriu text simplu "
+msgstr "Un criteriu text simplu"
 
 #. Default: "A sort criterion"
 #: CMFPlone/profiles/default/types/ATSortCriterion.xml
@@ -337,7 +338,7 @@ msgstr "Un criteriu de sortare"
 
 #: plone.contentrules/plone/contentrules/rule/interfaces.py:103
 msgid "A summary of the rule"
-msgstr ""
+msgstr "Un sumar al regulii"
 
 #: plone.app.contentrules/plone/app/contentrules/actions/workflow.py:84
 msgid "A workflow action triggers a workflow transition on an object."
@@ -353,7 +354,7 @@ msgstr ""
 
 #: CMFPlone/skins/plone_templates/calendar_macros.pt:203
 msgid "AM/PM"
-msgstr ""
+msgstr "AM/PM"
 
 #. Default: "Accessibility"
 #: CMFPlone/profiles/default/actions.xml
@@ -362,47 +363,47 @@ msgstr "Accesibilitate"
 
 #: plone.app.contentrules/plone/app/contentrules/browser/elements.py:59
 msgid "Action deleted."
-msgstr ""
+msgstr "Actiune stearsa."
 
 #: plone.app.contentrules/plone/app/contentrules/browser/elements.py:65
 msgid "Action moved down."
-msgstr ""
+msgstr "Actiune mutata mai jos."
 
 #: plone.app.contentrules/plone/app/contentrules/browser/elements.py:62
 msgid "Action moved up."
-msgstr ""
+msgstr "Actiune mutata mai sus."
 
 #: CMFPlone/skins/plone_prefs/prefs_install_products_form.pt:121
 msgid "Activated add-ons"
-msgstr ""
+msgstr "Produse suplimentare activate"
 
 #. Default: "Add"
 #: Archetypes/skins/archetypes/widgets/addable_support.pt:75
 #: archetypes.querywidget/archetypes/querywidget/skins/querywidget/querywidget.pt:198
 msgid "Add"
-msgstr ""
+msgstr "Adauga"
 
 #: plone.app.portlets/plone/app/portlets/portlets/classic.py:59
 msgid "Add Classic Portlet"
-msgstr ""
+msgstr "Adauga Portlet Clasic"
 
 #: plone.app.collection/plone/app/collection/portlets/collectionportlet.py:138
 #: plone.portlet.collection/plone/portlet/collection/collection.py:198
 msgid "Add Collection Portlet"
-msgstr ""
+msgstr "Adauga Portlet de Colectie"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/portaltype.py:79
 msgid "Add Content Type Condition"
-msgstr ""
+msgstr "Adauga Conditie a tipului de Continut"
 
 #: plone.app.contentrules/plone/app/contentrules/actions/copy.py:133
 msgid "Add Copy Action"
-msgstr ""
+msgstr "Adauga Actiune de Copiere"
 
 #: plone.app.event/plone/app/event/portlets/events.py:111
 #: plone.app.portlets/plone/app/portlets/portlets/events.py:114
 msgid "Add Events Portlet"
-msgstr ""
+msgstr "Adauga Portlet de Evenimente"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/fileextension.py:72
 msgid "Add File Extension Condition"
@@ -526,17 +527,17 @@ msgstr ""
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:52
 msgid "All Content"
-msgstr ""
+msgstr "Tot Continutul"
 
 #. Default: "All content"
 #: dynamic view name template folder_full_view on type Folder
 msgid "All content"
-msgstr ""
+msgstr "Tot continutul"
 
 #. Default: "All content rules"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/controlpanel.pt:74
 msgid "All content rules"
-msgstr ""
+msgstr "Toate regulile elementelor"
 
 #. Default: "All items publicly available on a certain date"
 #: CMFPlone/profiles/default/portal_atct.xml
@@ -561,7 +562,7 @@ msgstr ""
 
 #: plone.app.layout/plone/app/layout/presentation/presentation.py:86
 msgid "Also available in presentation mode…"
-msgstr ""
+msgstr "De asemenea disponibil in modul de prezentare..."
 
 #: plone.app.controlpanel/plone/app/controlpanel/markup.py:86
 msgid "Alternative formats"
@@ -573,19 +574,19 @@ msgstr ""
 
 #: CMFPlone/profiles/default/types/Topic.xml
 msgid "An always-updated saved search that can be used to display items matching criteria you specify."
-msgstr ""
+msgstr "O cautare salvata care se actualizeaza intotdeauna care poate fi folosita pentru a afisa elemente care satisfac criteriile pe care le-ai specificat."
 
 #: CMFPlone/profiles/default/types/News_Item.xml
 msgid "An announcement that will show up in news listings."
-msgstr ""
+msgstr "Un anunt care va aparea in listarea de stiri."
 
 #: CMFPlone/skins/plone_form_scripts/validate_start_end_date.vpy:41
 msgid "An event must end after it starts."
-msgstr ""
+msgstr "Un eveniment trebuie sa se termine dupa ce a inceput."
 
 #: CMFPlone/skins/plone_form_scripts/validate_start_end_date.vpy:42
 msgid "An event must start before it ends."
-msgstr ""
+msgstr "Un eveniment trebuie sa inceapa inainte de a se termina."
 
 #: plone.app.controlpanel/plone/app/controlpanel/ram.py:35
 msgid "An interval between cache cleanups in seconds."
@@ -609,7 +610,7 @@ msgstr "Starea de workflow"
 #: plone.app.contentrules/plone/app/contentrules/actions/copy.py:31
 #: plone.app.contentrules/plone/app/contentrules/actions/move.py:32
 msgid "As a path relative to the portal root."
-msgstr ""
+msgstr "Ca si o cale relativa fata de calea site-ului"
 
 #: plone.app.contentrules/plone/app/contentrules/browser/assignments.py:58
 msgid "Assignments deleted."
@@ -657,27 +658,27 @@ msgstr ""
 #: plone.app.event/plone/app/event/portlets/calendar.py:34
 #: plone.app.portlets/plone/app/portlets/portlets/calendar.py:34
 msgid "Calendar"
-msgstr ""
+msgstr "Calendar"
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "Calendar portlet"
-msgstr ""
+msgstr "Portlet Calendar"
 
 #: plone.app.controlpanel/plone/app/controlpanel/calendar.py:51
 msgid "Calendar settings"
-msgstr ""
+msgstr "Setarile de Calendar"
 
 #. Default: "Can only be seen and edited by the owner."
 #: CMFPlone/profiles/default/workflows/folder_workflow/definition.xml
 #: CMFPlone/profiles/default/workflows/intranet_folder_workflow/definition.xml
 #: CMFPlone/profiles/default/workflows/intranet_workflow/definition.xml
 msgid "Can only be seen and edited by the owner."
-msgstr ""
+msgstr "Poate fi vazut si editat doar de catre autor."
 
 #: plone.app.registry/plone/app/registry/browser/controlpanel.py:63
 #: plone.app.registry/plone/app/registry/browser/edit.py:45
 msgid "Cancel"
-msgstr ""
+msgstr "Anuleaza"
 
 #. Default: "Cancel check-out"
 #: plone.app.iterate/plone/app/iterate/profiles/default/actions.xml
@@ -706,11 +707,11 @@ msgstr "Modifica Starea"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:525
 msgid "Change author"
-msgstr ""
+msgstr "Schimba autorul"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:515
 msgid "Change type"
-msgstr ""
+msgstr "Schimba tipul"
 
 #: archetypes.kss/archetypes/kss/fields_versioning.py:55
 msgid "Changes Saved. Versioning for this file has been disabled because it is too large."
@@ -725,7 +726,7 @@ msgstr "Modificarile au fost aplicate."
 #: plone.app.controlpanel/plone/app/controlpanel/ram.py:108
 #: plone.app.users/plone/app/users/browser/account.py:77
 msgid "Changes canceled."
-msgstr ""
+msgstr "Schimbarile au fost anulate."
 
 #: CMFPlone/skins/plone_deprecated/prefs_group_members_add.cpy:20
 #: CMFPlone/skins/plone_deprecated/prefs_user_edit.cpy:36
@@ -773,7 +774,7 @@ msgstr ""
 
 #: CMFPlone/profiles/default/portlets.xml
 msgid "Classic portlet"
-msgstr ""
+msgstr "Portlet Classic"
 
 #. Default: "Clear cache"
 #: plone.app.controlpanel/plone/app/controlpanel/ram.pt:42
@@ -787,29 +788,29 @@ msgstr ""
 
 #: plone.app.controlpanel/plone/app/controlpanel/search.py:109
 msgid "Collapse rarely used options"
-msgstr ""
+msgstr "Minimizeaza optiunile rar folosite"
 
 #. Default: "Collection"
 #: CMFPlone/profiles/default/types/Topic.xml
 #: plone.app.collection/plone/app/collection/profiles/default/types/Collection.xml
 msgid "Collection"
-msgstr ""
+msgstr "Colectie"
 
 #: plone.app.collection/plone/app/collection/profiles/default/types/Collection.xml
 msgid "Collection of searchable information"
-msgstr ""
+msgstr "O colectie de informatii cautabile"
 
 #: plone.portlet.collection/plone/portlet/collection/profiles/default/portlets.xml
 msgid "Collection portlet"
-msgstr ""
+msgstr "Porlet de Colectie"
 
 #: CMFPlone/profiles/default/controlpanel.xml
 msgid "Collections"
-msgstr ""
+msgstr "Colectii"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:495
 msgid "Comment"
-msgstr ""
+msgstr "Comentariu"
 
 #. Default: "Comment about the last transition"
 #: CMFPlone/profiles/default/workflows/folder_workflow/definition.xml
@@ -820,11 +821,11 @@ msgstr ""
 
 #: CMFPlone/skins/plone_form_scripts/discussion_reply.cpy:66
 msgid "Comment added."
-msgstr ""
+msgstr "Comentariu adaugat."
 
 #: CMFPlone/skins/plone_form_scripts/validate_talkback.vpy:25
 msgid "Comment cannot be blank."
-msgstr ""
+msgstr "Comentariu nu poate ramane gol."
 
 #. Default: "Community Workflow"
 #: CMFPlone/profiles/default/workflows/plone_workflow/definition.xml
@@ -890,7 +891,7 @@ msgstr ""
 
 #: plone.app.collection/plone/app/collection/browser/templates/tabular_view.pt:30
 msgid "Content listing"
-msgstr ""
+msgstr "Listari de elemente"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/portaltype.py:23
 msgid "Content type"
@@ -906,11 +907,11 @@ msgid "Contents"
 msgstr "Continut"
 
 msgid "Contributor"
-msgstr ""
+msgstr "Contribuitor"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:103
 msgid "Contributors"
-msgstr ""
+msgstr "Contribuitori"
 
 #. Default: "Copy"
 #: CMFPlone/profiles/default/actions.xml
@@ -920,15 +921,15 @@ msgstr "Copiaza"
 #: CMFPlone/skins/plone_scripts/folder_paste.cpy:16
 #: CMFPlone/skins/plone_scripts/object_paste.cpy:17
 msgid "Copy or cut one or more items to paste."
-msgstr ""
+msgstr "Copiaza sau taie unul sau mai multe elemente pentru a lipi."
 
 #: plone.app.contentrules/plone/app/contentrules/actions/configure.zcml
 msgid "Copy to folder"
-msgstr ""
+msgstr "Copiaza la folder-ul"
 
 #: plone.app.contentrules/plone/app/contentrules/actions/copy.py:47
 msgid "Copy to folder ${folder}."
-msgstr ""
+msgstr "Copiaza la folder-ul ${folder}"
 
 #: CMFPlone/skins/plone_deprecated/prefs_group_edit.py:28
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups.py:413
@@ -937,23 +938,23 @@ msgstr ""
 
 #: CMFPlone/skins/plone_form_scripts/send_feedback.cpy:51
 msgid "Could not find a valid email address"
-msgstr ""
+msgstr "Nu s-a putut gasi o adresa de email valida"
 
 #: plone.app.layout/plone/app/layout/viewlets/content.py:163
 msgid "Create"
-msgstr ""
+msgstr "Creeaza"
 
 #: CMFPlone/browser/templates/plone-addsite.pt:181
 msgid "Create Plone Site"
-msgstr ""
+msgstr "Creeaza un Site Plone"
 
 #: CMFPlone/browser/templates/plone-addsite.pt:13
 msgid "Create a Plone site"
-msgstr ""
+msgstr "Creeaza un Site Plone"
 
 #: CMFPlone/browser/templates/plone-overview.pt:113
 msgid "Create a new Plone site"
-msgstr ""
+msgstr "Creeaza un nou Site Plone"
 
 #. Default: "Creation Date"
 #: CMFPlone/profiles/default/portal_atct.xml
@@ -964,11 +965,11 @@ msgstr "Criteriu de Data"
 #. Default: "Creator"
 #: CMFPlone/profiles/default/portal_atct.xml
 msgid "Creator"
-msgstr ""
+msgstr "Creator"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:93
 msgid "Creators"
-msgstr ""
+msgstr "Creatori"
 
 #. Default: "Criteria"
 #: CMFPlone/profiles/default/types/Topic.xml
@@ -982,7 +983,7 @@ msgstr "Criteriu pentru Autorul Curent"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:372
 msgid "Current User"
-msgstr ""
+msgstr "Utilizatorul curent"
 
 #: CMFPlone/browser/templates/plone-upgrade.pt:91
 msgid "Current active configuration"
@@ -1003,19 +1004,19 @@ msgstr ""
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:184
 msgid "Date Created"
-msgstr ""
+msgstr "Data creerii"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:194
 msgid "Date Effective"
-msgstr ""
+msgstr "Data efectiva"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:204
 msgid "Date Expires"
-msgstr ""
+msgstr "Data expirarii"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:214
 msgid "Date Modified"
-msgstr ""
+msgstr "Data modificarii"
 
 #. Default: "Date Range Criterion"
 #: CMFPlone/profiles/default/types/ATDateRangeCriterion.xml
@@ -1029,7 +1030,7 @@ msgstr "Interval de date"
 
 #: CMFPlone/skins/plone_templates/calendar_macros.pt:109
 msgid "Day"
-msgstr ""
+msgstr "Zi"
 
 #: plone.app.controlpanel/plone/app/controlpanel/maintenance.py:28
 msgid "Days of object history to keep after packing"
@@ -1042,15 +1043,15 @@ msgstr "Pagina Implicita"
 
 #: plone.app.controlpanel/plone/app/controlpanel/editing.py:29
 msgid "Default editor"
-msgstr ""
+msgstr "Editorul implicit"
 
 #: plone.app.controlpanel/plone/app/controlpanel/markup.py:78
 msgid "Default format"
-msgstr ""
+msgstr "Formatul implicit"
 
 #: plone.app.controlpanel/plone/app/controlpanel/skins.py:32
 msgid "Default theme"
-msgstr ""
+msgstr "Tema implicita"
 
 #: plone.app.collection/plone/app/collection/collection.py:30
 msgid "Define the search terms for the items you want to list by choosing what to match on. The list of results will be dynamically updated."
@@ -1072,17 +1073,17 @@ msgstr "Sterge"
 
 #: plone.app.contentrules/plone/app/contentrules/actions/delete.py:27
 msgid "Delete object"
-msgstr ""
+msgstr "Sterge obiectul"
 
 #: CMFPlone/profiles/default/portal_atct.xml
 #: plone.contentrules/plone/contentrules/rule/interfaces.py:102
 #: plone.stringinterp/plone/stringinterp/adapters.py:73
 msgid "Description"
-msgstr ""
+msgstr "Descriere"
 
 #: plone.portlet.static/plone/portlet/static/static.py:52
 msgid "Details link"
-msgstr ""
+msgstr "Link-ul de detalii"
 
 #: plone.app.controlpanel/plone/app/controlpanel/editing.py:39
 msgid "Determines if the external editor feature is enabled. This feature requires a special client-side application installed. The users also have to enable this in their preferences."
@@ -1133,7 +1134,7 @@ msgstr ""
 
 #: CMFPlone/skins/plone_form_scripts/document_edit.cpy:42
 msgid "Document changes saved."
-msgstr ""
+msgstr "Schimbarile aduse document-ului au fost salvate."
 
 #: CMFPlone/skins/plone_form_scripts/plone_change_password.py:20
 msgid "Does not match current password."
@@ -1155,11 +1156,11 @@ msgstr ""
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:373
 msgid "E-Mail Address"
-msgstr ""
+msgstr "Adresa E-mail"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:317
 msgid "E-Mail Addresses"
-msgstr ""
+msgstr "Adrese E-mail"
 
 #: plone.app.controlpanel/plone/app/controlpanel/markup.py:105
 msgid "Each type chosen will have a wiki enabled primary text area. At least one type must be chosen to turn wiki behavior on."
@@ -1174,12 +1175,12 @@ msgstr "Editeaza"
 
 #: plone.app.portlets/plone/app/portlets/portlets/classic.py:69
 msgid "Edit Classic Portlet"
-msgstr ""
+msgstr "Editeaza Portletul Classic"
 
 #: plone.app.collection/plone/app/collection/portlets/collectionportlet.py:151
 #: plone.portlet.collection/plone/portlet/collection/collection.py:211
 msgid "Edit Collection Portlet"
-msgstr ""
+msgstr "Editeaza Portletul de Colectie"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/portaltype.py:93
 msgid "Edit Content Type Condition"
@@ -1192,15 +1193,15 @@ msgstr ""
 #: plone.app.event/plone/app/event/portlets/events.py:119
 #: plone.app.portlets/plone/app/portlets/portlets/events.py:123
 msgid "Edit Events Portlet"
-msgstr ""
+msgstr "Editeaza Portletul de Evenimente"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/fileextension.py:89
 msgid "Edit File Extension Condition"
-msgstr ""
+msgstr "Conditia Editeaza extensia fisierelor"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/group.py:86
 msgid "Edit Group Condition"
-msgstr ""
+msgstr "Conditia Editeaza grupuri"
 
 #: plone.app.contentrules/plone/app/contentrules/actions/logger.py:117
 msgid "Edit Logger Action"
@@ -1216,11 +1217,11 @@ msgstr ""
 
 #: plone.app.portlets/plone/app/portlets/portlets/navigation.py:234
 msgid "Edit Navigation Portlet"
-msgstr ""
+msgstr "Editeaza Portletul de Navigare"
 
 #: plone.app.portlets/plone/app/portlets/portlets/news.py:103
 msgid "Edit News Portlet"
-msgstr ""
+msgstr "Editeaza Portletul de Stiri"
 
 #: plone.app.contentrules/plone/app/contentrules/actions/notify.py:88
 msgid "Edit Notify Action"
@@ -1228,19 +1229,19 @@ msgstr ""
 
 #: plone.app.portlets/plone/app/portlets/portlets/rss.py:332
 msgid "Edit RSS Portlet"
-msgstr ""
+msgstr "Editeaza Portletul RSS"
 
 #: plone.app.portlets/plone/app/portlets/portlets/recent.py:100
 msgid "Edit Recent Portlet"
-msgstr ""
+msgstr "Editeaza Portletul Elemente Recente"
 
 #: plone.app.contentrules/plone/app/contentrules/browser/rule.py:36
 msgid "Edit Rule"
-msgstr ""
+msgstr "Editeaza regula"
 
 #: plone.app.portlets/plone/app/portlets/portlets/search.py:65
 msgid "Edit Search Portlet"
-msgstr ""
+msgstr "Editeaza Portletul de Cautare"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/talesexpression.py:83
 msgid "Edit TALES Expression Condition"
@@ -10282,4 +10283,5 @@ msgstr ""
 #: plone.app.layout/plone/app/layout/viewlets/path_bar.pt:6
 msgid "you_are_here"
 msgstr "Locatia curenta:"
+
 
