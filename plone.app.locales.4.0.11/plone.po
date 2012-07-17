@@ -4445,7 +4445,7 @@ msgstr ""
 #. Default: "(This will delete a total of ${number_of_items_to_delete} items.)"
 #: CMFPlone/skins/plone_forms/delete_confirmation_page.cpt:23
 msgid "alert_deleting_x_number_of_items"
-msgstr ""
+msgstr "(Acesta operatie va sterge un total de %{number_of_items_to_delete} de obiecte."
 
 #. Default: "Do you really want to delete this item?"
 #: CMFPlone/skins/plone_forms/delete_confirmation_page.cpt:27
@@ -4456,20 +4456,20 @@ msgstr "Vrei intr-adevar sa stergi acest element?"
 #. Default: "Do you really want to delete this folder and all its contents?"
 #: CMFPlone/skins/plone_forms/delete_confirmation_page.cpt:19
 msgid "alert_really_delete_folder"
-msgstr ""
+msgstr "Vrei intr-adevar sa stergi acest folder si tot continutul sau?"
 
 #: plone.app.search/plone/app/search/browser.py:121
 msgid "alphabetically"
-msgstr ""
+msgstr "alfabetic"
 
 #: plone.app.controlpanel/plone/app/controlpanel/search.py:22
 msgid "anonymous users"
-msgstr ""
+msgstr "utilizator anonim"
 
 #. Default: "<any>"
 #: Archetypes/ArchetypeTool.py:815
 msgid "at_search_any"
-msgstr ""
+msgstr "<orice>"
 
 #. Default: "You are receiving this mail because ${from_address} is sending feedback about content you created at ${url}."
 #: CMFPlone/skins/plone_templates/author_feedback_template.pt:19
@@ -4510,7 +4510,7 @@ msgstr "Previzualizeaza comentariu"
 #. Default: "Error"
 #: plone.app.portlets/plone/app/portlets/browser/templates/error_message.pt:10
 msgid "box_error"
-msgstr ""
+msgstr "Eroare"
 
 #. Default: "Upcoming Events"
 #: plone.app.event/plone/app/event/portlets/events.pt:10
@@ -4534,7 +4534,7 @@ msgstr "Lista intreaga a reviziilor"
 #. Default: "Languages"
 #: plone.app.portlets/plone/app/portlets/portlets/language.pt:6
 msgid "box_languages"
-msgstr ""
+msgstr "Limbi"
 
 #. Default: "last modified"
 #: CMFPlone/skins/plone_content/folder_listing.pt:151
@@ -4575,12 +4575,12 @@ msgstr "Stiri"
 #: plone.app.event/plone/app/event/portlets/events.pt:71
 #: plone.app.portlets/plone/app/portlets/portlets/events.pt:71
 msgid "box_previous_events"
-msgstr ""
+msgstr "Evenimente precedente..."
 
 #. Default: "published"
 #: plone.app.search/plone/app/search/search.pt:302
 msgid "box_published"
-msgstr ""
+msgstr "publicat"
 
 #. Default: "Recent Changes"
 #: plone.app.portlets/plone/app/portlets/portlets/recent.py:46
@@ -4600,7 +4600,7 @@ msgstr "Lista de Revizuire"
 #. Default: "Search"
 #: plone.app.portlets/plone/app/portlets/portlets/search.pt:10
 msgid "box_search"
-msgstr ""
+msgstr "Cautare"
 
 #. Default: "Log in"
 #: plone.app.openid/plone/app/openid/portlets/login.pt:6
@@ -4618,7 +4618,7 @@ msgstr "Evenimente urmatoare"
 #. Default: "Category"
 #: plone.app.contentrules/plone/app/contentrules/actions/templates/mail.pt:148
 msgid "category-contentrules-mailsub"
-msgstr ""
+msgstr "Categorie"
 
 #. Default: "You are not allowed to modify the title of this item."
 #: CMFPlone/skins/plone_forms/folder_rename_form.cpt:106
@@ -4628,7 +4628,7 @@ msgstr "Nu ai dreptul de a modifica titlul acestui element."
 #. Default: "Select ${title}"
 #: plone.app.content/plone/app/content/browser/tableview.py:59
 msgid "checkbox_select_item"
-msgstr ""
+msgstr "Selecteaza %{title}"
 
 #. Default: "This is a working copy of ${baseline_title}, made by ${creator} on ${created}."
 #: plone.app.iterate/plone/app/iterate/browser/info_checkout.pt:22
@@ -4638,7 +4638,7 @@ msgstr ""
 #. Default: "Comments (${comments})"
 #: plone.app.layout/plone/app/layout/viewlets/comments.pt:10
 msgid "comments_header"
-msgstr ""
+msgstr "Comentarii (${comments})"
 
 #. Default: "Use parent folder setting"
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:88
@@ -4665,7 +4665,7 @@ msgstr "Telefon de Contact"
 
 #: validation/validators/BaseValidators.py:23
 msgid "contains unprintable characters"
-msgstr ""
+msgstr "contine caractere ce nu pot fi afisate"
 
 #. Default: "Add action"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:185
@@ -4685,50 +4685,50 @@ msgstr ""
 #. Default: "content rules control panel"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-assignments.pt:24
 msgid "contentrules_control_panel"
-msgstr ""
+msgstr "Panoul de control al regulilor pentru obiecte"
 
 #. Default: "Use the ${controlpanel_link} to create new rules or delete or modify existing ones."
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-assignments.pt:53
 msgid "contentrules_controlpanel_link"
-msgstr ""
+msgstr "Foloseste %{controlpanel_link} pentru a crea, sterge sau modifica reguli existente."
 
 #. Default: "Enter a short description of the rule and its purpose."
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:39
 msgid "contentrules_description_description"
-msgstr ""
+msgstr "Introdu o descriere scruta a regulii si a scopului ei."
 
 #. Default: "Rules execute when a triggering event occurs. Rule actions will only be invoked if all the rule's conditions are met. You can add new actions and conditions using the buttons below."
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:20
 msgid "contentrules_description_execution"
-msgstr ""
+msgstr "Regulile se executa cand un eveniment se declanseaza. Actiunile regulilor se vor invoca daca toate conditiile regulei sunt indeplinite. Poti adauga noi actiuni si conditii folosind butonul de mai jos."
 
 #. Default: "Stop evaluating content rules after this rule completes"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:56
 msgid "contentrules_description_stop"
-msgstr ""
+msgstr "Opreste evaluarea regulilor dupa ce aceasta regula s-a terminat"
 
 #. Default: "The rule will execute when the following event occurs."
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:49
 msgid "contentrules_description_trigger"
-msgstr ""
+msgstr "Aceasta regula se va executa cand urmatorul eveniment s-a declansat."
 
 #. Default: "Perform the following actions:"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:139
 msgid "contentrules_perform_actions"
-msgstr ""
+msgstr "Efectuati urmatoarele actiuni:"
 
 #. Default: "Rule properties"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:27
 msgid "contentrules_rule_properties"
-msgstr ""
+msgstr "Proprietatile regulei"
 
 #: plone.app.controlpanel/plone/app/controlpanel/overview.pt:32
 msgid "continue with the upgrade"
-msgstr ""
+msgstr "Continua cu upgrade-ul"
 
 #: plone.app.search/plone/app/search/browser.py:119
 msgid "date (newest first)"
-msgstr ""
+msgstr "data (cel mai nou mai intai)"
 
 #. Default: "/"
 #: CMFPlone/skins/plone_templates/calendar_macros.pt:86
@@ -4754,7 +4754,7 @@ msgstr "Sterge imagine curenta"
 #. Default: "description"
 #: Memberproperty
 msgid "description"
-msgstr ""
+msgstr "descriere"
 
 #. Default: "Overview of the content rules that can be assigned to folders and other types of containers in the portal."
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/controlpanel.pt:66
@@ -4862,7 +4862,7 @@ msgstr "Asa va arata comentariul cand va fi afisat."
 #. Default: "Fill in this form to contact the site owners."
 #: CMFPlone/skins/plone_templates/contact-info.cpt:38
 msgid "description_contact_site_owner"
-msgstr ""
+msgstr "Completeaza acest formular pentru a contacta proprietarii site-ului."
 
 #. Default: "Please set a descriptive title for the rule."
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:31
@@ -4903,7 +4903,7 @@ msgstr "${plonecms} este Copyright ${copyright} 2000-${current_year} de catre ${
 #. Default: "The current owner is ${name}."
 #: CMFPlone/skins/plone_forms/ownership_form.cpt:26
 msgid "description_current_owner"
-msgstr ""
+msgstr "Proprietarul curent este ${name}"
 
 #. Default: "You are running in \"debug mode\". This mode is intended for sites that are under development. This allows many configuration changes to be immediately visible, but will make your site run more slowly. To turn off debug mode, stop the server, set 'debug-mode=off' in your buildout.cfg, re-run bin/buildout and then restart the server process."
 #: plone.app.controlpanel/plone/app/controlpanel/overview.pt:141
@@ -4925,12 +4925,12 @@ msgstr "Aceasta informatie, este denumita <em>metadata</em> si reprezinta o cole
 #: CMFPlone/skins/plone_login/external_login_return.cpt:51
 #: CMFPlone/skins/plone_login/login_success.pt:63
 msgid "description_enable_cookies_to_stay_logged_in"
-msgstr ""
+msgstr "Nota: Daca nu ramai loghinat dupa ce ai parasit aceasta pagina, este deoarece ai nevoie sa activezi cookies in browser-ul tau."
 
 #. Default: "The error has been logged as entry number ${entryid}."
 #: CMFPlone/skins/plone_templates/default_error_message.pt:151
 msgid "description_error_has_been_logged"
-msgstr ""
+msgstr "Eroarea a fost notata cu numarul ${entryid}."
 
 #. Default: "This page lists the exceptions that have occurred in this site recently. You can configure how many exceptions should be kept and whether the exceptions should be copied to Zope's event log file(s)."
 #: CMFPlone/skins/plone_prefs/prefs_error_log_form.pt:16
@@ -4951,7 +4951,7 @@ msgstr "Aici poti sa adaugi sau sa stergi grupurile si utilizatorii din acest gr
 #. Default: "Note that group portlets are normally rendered below context portlets."
 #: plone.app.portlets/plone/app/portlets/browser/templates/manage-group.pt:81
 msgid "description_group_portlets_below"
-msgstr ""
+msgstr "Portletii de grup sunt in mod normal afisati sub porletii de context."
 
 #. Default: "Groups are logical collections of users, such as departments and business units. Groups are not directly related to permissions on a global level, you normally use Roles for that - and let certain Groups have a particular role."
 #: CMFPlone/skins/plone_deprecated/prefs_groups_overview.cpt:68
@@ -4972,12 +4972,12 @@ msgstr "Aceasta clasa nu suporta interfata istorica.  Continutul trebuie sa se m
 #. Default: "If you need to report this to the ${site_admin}, please include this entry number in your message."
 #: CMFPlone/skins/plone_templates/default_error_message.pt:157
 msgid "description_include_error_in_admin_message"
-msgstr ""
+msgstr "Daca ai nevoie sa raportezi aceasta eroare catre ${site_admin}, va rugam sa includeti si acest numar dat erorii in mesajul vostru."
 
 #. Default: "Settings related to interface languages and content translations."
 #: plone.app.controlpanel/plone/app/controlpanel/language.py:95
 msgid "description_language_settings"
-msgstr ""
+msgstr "Setari legate de limbajul interfetei si a continutului acestui site."
 
 #. Default: "Distributed under the ${license}."
 #: plone.app.layout/plone/app/layout/viewlets/footer.pt:24
@@ -4998,22 +4998,22 @@ msgstr "Vei observa ca bara de sus dreapta s-a schimbat, acum continand cateva a
 #: CMFPlone/skins/plone_login/logged_out.cpt:28
 #: plone.app.openid/plone/app/openid/skins/ploneopenid/logged_out.cpt:45
 msgid "description_loginagain"
-msgstr ""
+msgstr "Poti sa te autentifici din nou folosind formularul de mai jos."
 
 #. Default: "The left and right portlet slots will now display only those portlets assigned to this content type. Use the up, down, delete and edit links to manage user portlets. Use the drop-down list to add new portlets."
 #: plone.app.portlets/plone/app/portlets/browser/templates/manage-content-type.pt:33
 msgid "description_manage_contenttype_portlets"
-msgstr ""
+msgstr "Sloturile portletilor de pe stanga si dreapta voi afisa doar acei portleti asignati doar acestui tip de obiect. Foloseste link-urile de sus, jos, sterge si editeaza pentru a administra portletii utilizatorilor. Foloseste lista verticala tip drop-down pentru a adauga noi portleti."
 
 #. Default: "The portlet columns will first display portlets explicitly assigned in this context. Use the buttons on each portlet to move them up or down, delete or edit them. To add a new portlet, use the drop-down list at the top of the column."
 #: plone.app.portlets/plone/app/portlets/browser/templates/manage-contextual.pt:46
 msgid "description_manage_contextual_portlets"
-msgstr ""
+msgstr "Coloanele portletilor va afisa mai intai portleti asignati explicit in acest context. Foloseste butoanele de pe fiecare portlet pentru a le muta mai in sus sau in jos, a le sterge sau a le edita. Pentru a adauga un nou portlet, foloseste lista verticala de la partea de sus a coloanei."
 
 #. Default: "The left and right portlet slots will now display only those portlets assigned to this group. Use the up, down, delete and edit links to manage user portlets. Use the drop-down list to add new portlets."
 #: plone.app.portlets/plone/app/portlets/browser/templates/manage-group.pt:75
 msgid "description_manage_group_portlets"
-msgstr ""
+msgstr "Sloturile portletilor de pe stanga si dreapta vor afisa doar acei portleti asignati catre acest grup. Foloseste butoanele de pe fiecare portlet pentru a le muta mai in sus sau in jos, a le sterge sau a le edita. Foloseste lista verticala pentru a adauga noi portleti."
 
 #. Default: "This search form enables you to find users by specifying one or more search criteria."
 #: CMFPlone/skins/plone_forms/member_search_form.pt:17
@@ -5034,7 +5034,7 @@ msgstr "It permite sa controlezi cum se construieste navigarea pe site-ul tau."
 #. Default: "Note that to control how the navigation tree is displayed, you should go to \"Manage portlets\" at the root of the site (or wherever a navigation tree portlet has been added) and change its settings directly."
 #: CMFPlone/skins/plone_deprecated/prefs_navigation_form.cpt:32
 msgid "description_navigation_setup_navtree"
-msgstr ""
+msgstr "Pentru a controla cum este afisat portletul de navigare, ar trebui sa mergi la link-ul \"Administreaza portletii\" la prima pagina a site-ului ( sau oriunde un portlet de navigare a fost adaugat) si schimba setarile sale in mod direct."
 
 #. Default: "If you do not have an account here, head over to the ${registration_form}."
 #: CMFPlone/skins/plone_login/failsafe_login_form.cpt:34
