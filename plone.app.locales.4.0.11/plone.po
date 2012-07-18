@@ -5501,7 +5501,7 @@ msgstr "Actiuni"
 #. Default: "Add ${itemtype}"
 #: Archetypes/skins/archetypes/edit_macros.pt:16
 msgid "heading_add_item"
-msgstr ""
+msgstr "Adauga ${itemtype}"
 
 #. Default: "Add new item"
 #: plone.app.content/plone/app/content/browser/folderfactories.pt:20
@@ -5517,7 +5517,7 @@ msgstr "Adauga eveniment la calendar"
 #. Default: "Add New User"
 #: plone.app.users/plone/app/users/browser/register.py:507
 msgid "heading_add_user_form"
-msgstr ""
+msgstr "Adauga utilizator nou"
 
 #. Default: "Advanced search for content"
 #: CMFPlone/skins/plone_deprecated/search_form.pt:16
@@ -5527,13 +5527,13 @@ msgstr "Cautare avansata pentru continut"
 #. Default: "Allowed languages"
 #: plone.app.controlpanel/plone/app/controlpanel/widgets.py:180
 msgid "heading_allowed_languages"
-msgstr ""
+msgstr "Limbi permise"
 
 #. Default: "Assign to groups"
 #: CMFPlone/skins/plone_deprecated/prefs_user_memberships.pt:67
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups_usermembership.pt:122
 msgid "heading_assign_to_groups"
-msgstr ""
+msgstr "Asigneaza grupurilor"
 
 #. Default: "Latest content created by this user"
 #: CMFPlone/skins/plone_content/author.cpt:257
@@ -5568,12 +5568,12 @@ msgstr "Previzualizare Comentariu"
 #. Default: "Contact form"
 #: CMFPlone/skins/plone_templates/contact-info.cpt:20
 msgid "heading_contact_form"
-msgstr ""
+msgstr "Formular de contact"
 
 #. Default: "Content views"
 #: plone.app.portlets/plone/app/portlets/browser/templates/manage-dashboard.pt:35
 msgid "heading_content_views"
-msgstr ""
+msgstr "Sabloanele obiectului"
 
 #. Default: "Create a Group"
 #: CMFPlone/skins/plone_deprecated/prefs_group_details.pt:66
@@ -5595,7 +5595,7 @@ msgstr ""
 #. Default: "Description"
 #: plone.app.registry/plone/app/registry/browser/records.pt:59
 msgid "heading_description"
-msgstr ""
+msgstr "Descriere"
 
 #. Default: "Document Actions"
 #: plone.app.layout/plone/app/layout/viewlets/document_actions.pt:9
@@ -5612,7 +5612,7 @@ msgstr "Editeaza Proprietatile Grupului ${groupname}"
 #: Archetypes/skins/archetypes/edit_macros.pt:26
 #: Archetypes/skins/archetypes/metadata_macros.pt:18
 msgid "heading_edit_item"
-msgstr ""
+msgstr "Editeaza ${itemtype}"
 
 #. Default: "Error log"
 #: CMFPlone/skins/plone_prefs/prefs_error_log_form.pt:13
@@ -5655,7 +5655,7 @@ msgstr "Grupuri din care face parte ${username}"
 #. Default: "Group memberships for ${fullname} (${userid})"
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups_usermembership.pt:68
 msgid "heading_group_memberships_for_fullname"
-msgstr ""
+msgstr "Apartenenta grupului pentru ${fullname} (${userid})"
 
 #. Default: "Current group members"
 #: CMFPlone/skins/plone_deprecated/prefs_group_members.cpt:118
@@ -5682,22 +5682,22 @@ msgstr "Inregistrare"
 #. Default: "Language"
 #: plone.app.controlpanel/plone/app/controlpanel/widgets.py:184
 msgid "heading_language"
-msgstr ""
+msgstr "Limba"
 
 #. Default: "Allowed?"
 #: plone.app.controlpanel/plone/app/controlpanel/widgets.py:182
 msgid "heading_language_allowed"
-msgstr ""
+msgstr "Permis?"
 
 #. Default: "Code"
 #: plone.app.controlpanel/plone/app/controlpanel/widgets.py:186
 msgid "heading_language_code"
-msgstr ""
+msgstr "Cod"
 
 #. Default: "Language Settings"
 #: plone.app.controlpanel/plone/app/controlpanel/language.py:94
 msgid "heading_language_settings"
-msgstr ""
+msgstr "Setari limba"
 
 #. Default: "Search for users"
 #: CMFPlone/skins/plone_forms/member_search_form.pt:14
@@ -5714,7 +5714,7 @@ msgstr "Membrii Grupului Curent"
 #. Default: "Migrate to or from email login"
 #: plone.app.controlpanel/plone/app/controlpanel/emaillogin.pt:11
 msgid "heading_migrate_email_login"
-msgstr ""
+msgstr "Migreaza catre sau de la autentificarea pe baza de email"
 
 #. Default: "Personal Preferences"
 #: CMFPlone/skins/plone_deprecated/personalize_form.cpt:50
@@ -5725,7 +5725,7 @@ msgstr "Preferinte Personale"
 #. Default: "Name"
 #: plone.app.registry/plone/app/registry/browser/records.pt:57
 msgid "heading_name"
-msgstr ""
+msgstr "Nume"
 
 #. Default: "Navigation Settings"
 #: CMFPlone/skins/plone_deprecated/prefs_navigation_form.cpt:18
@@ -5735,12 +5735,12 @@ msgstr "Setari Navigare"
 #. Default: "New owner"
 #: CMFPlone/skins/plone_forms/ownership_form.cpt:52
 msgid "heading_new_owner"
-msgstr ""
+msgstr "Proprietar nou"
 
 #. Default: "New user?"
 #: CMFPlone/skins/plone_login/login_form.cpt:294
 msgid "heading_new_user"
-msgstr ""
+msgstr "Utilizator nou?"
 
 #. Default: "Insufficient Privileges"
 #: CMFPlone/skins/plone_login/insufficient_privileges.pt:13
@@ -5750,7 +5750,7 @@ msgstr "Privilegii Insuficiente"
 #. Default: "You might have been looking for…"
 #: CMFPlone/skins/plone_templates/default_error_message.pt:70
 msgid "heading_not_found_suggestions"
-msgstr ""
+msgstr "S-ar putea sa fi cautat..."
 
 #. Default: "Personal tools"
 #: plone.app.layout/plone/app/layout/viewlets/personal_bar.pt:4
@@ -5761,12 +5761,12 @@ msgstr "Unelte personale"
 #. Default: "Please wait while you are logged in"
 #: CMFPlone/skins/plone_login/external_login_return.cpt:34
 msgid "heading_please_wait_while_you_are_logged_in"
-msgstr ""
+msgstr "Va rugam sa asteptati pana cand veti fi autentificati"
 
 #. Default: "Portlets assigned here"
 #: plone.app.portlets/plone/app/portlets/browser/templates/edit-manager-macros.pt:40
 msgid "heading_portlets_assigned_here"
-msgstr ""
+msgstr "Portleti asignati aici"
 
 #. Default: "User properties for ${fullname} (${username})"
 #: CMFPlone/skins/plone_deprecated/prefs_user_details.cpt:56
@@ -5783,7 +5783,7 @@ msgstr "Proces de publicare"
 #: CMFPlone/skins/plone_login/logged_out.cpt:38
 #: plone.app.openid/plone/app/openid/skins/ploneopenid/logged_out.cpt:53
 msgid "heading_quit_to_log_out"
-msgstr ""
+msgstr "Inca auntentificat ca si un utilizator Zope"
 
 #. Default: "RAM cache statistics"
 #: plone.app.controlpanel/plone/app/controlpanel/ram.pt:14
@@ -5830,7 +5830,7 @@ msgstr "Rezultate"
 #: CMFPlone/skins/plone_deprecated/prefs_user_memberships.pt:66
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups_usermembership.pt:121
 msgid "heading_search_groups"
-msgstr ""
+msgstr "Cauta in grupuri"
 
 #. Default: "Search for new group members"
 #: CMFPlone/skins/plone_deprecated/prefs_group_members.cpt:199
@@ -5867,7 +5867,7 @@ msgstr "Selecteaza pagina implicita"
 #. Default: "Site Administrator has been contacted."
 #: CMFPlone/skins/plone_templates/send_feedback_confirm.cpt:18
 msgid "heading_send_feedback_confirm"
-msgstr ""
+msgstr "Administratorul site-ului a fost contactat."
 
 #. Default: "Send this page to someone"
 #: CMFPlone/skins/plone_forms/sendto_form.cpt:20
@@ -5878,7 +5878,7 @@ msgstr "Trimite aceasta pagina unei persoane"
 #. Default: "Restrict what types of content can be added"
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:51
 msgid "heading_set_content_type_restrictions"
-msgstr ""
+msgstr "Restrictioneaza ce tipuri de obiecte pot fi adaugate"
 
 #. Default: "Please log in"
 #: CMFPlone/skins/plone_login/failsafe_login_form.cpt:8
@@ -5894,17 +5894,17 @@ msgstr "Nu mai esti autentificat"
 #. Default: "We&#8217;re sorry, but there seems to be an error…"
 #: CMFPlone/skins/plone_templates/default_error_message.pt:141
 msgid "heading_site_error_sorry"
-msgstr ""
+msgstr "Ne pare rau dar se pare ca exista o eroare..."
 
 #. Default: "Site language"
 #: plone.app.controlpanel/plone/app/controlpanel/language.py:33
 msgid "heading_site_language"
-msgstr ""
+msgstr "Limba site-ului"
 
 #. Default: "This page does not seem to exist…"
 #: CMFPlone/skins/plone_templates/default_error_message.pt:36
 msgid "heading_site_there_seems_to_be_an_error"
-msgstr ""
+msgstr "Aceasta pagina nu pare sa existe..."
 
 #. Default: "Syndication Properties"
 #: CMFPlone/skins/plone_forms/synPropertiesForm.cpt:16
@@ -5914,22 +5914,22 @@ msgstr "Proprietati Syndication"
 #. Default: "Title"
 #: plone.app.registry/plone/app/registry/browser/records.pt:58
 msgid "heading_title"
-msgstr ""
+msgstr "Titlu"
 
 #. Default: "Type"
 #: plone.app.registry/plone/app/registry/browser/records.pt:60
 msgid "heading_type"
-msgstr ""
+msgstr "Tip"
 
 #. Default: "Type Settings"
 #: plone.app.controlpanel/plone/app/controlpanel/types.pt:13
 msgid "heading_type_settings"
-msgstr ""
+msgstr "Setari tip obiect"
 
 #. Default: "Block/unblock portlets"
 #: plone.app.portlets/plone/app/portlets/browser/templates/edit-manager-contextual.pt:16
 msgid "heading_un_block_portlets"
-msgstr ""
+msgstr "Blocheaza/deblocheaza portletii"
 
 #. Default: "Undo actions"
 #: CMFPlone/skins/plone_forms/undo_form.pt:20
@@ -5945,7 +5945,7 @@ msgstr "Preferintele Mele"
 #: plone.app.controlpanel/plone/app/controlpanel/usergroupssettings.pt:47
 #: plone.app.users/plone/app/users/memberregistration.pt:48
 msgid "heading_usergroup_settings"
-msgstr ""
+msgstr "Setari utlizator/grup"
 
 #. Default: "Users Overview"
 #: CMFPlone/skins/plone_deprecated/prefs_users_overview.cpt:49
@@ -5961,7 +5961,7 @@ msgstr "Validare"
 #. Default: "Value"
 #: plone.app.registry/plone/app/registry/browser/records.pt:61
 msgid "heading_value"
-msgstr ""
+msgstr "Valoare"
 
 #. Default: "Version Overview"
 #: CMFPlone/browser/templates/plone-upgrade.pt:186
@@ -5973,7 +5973,7 @@ msgstr ""
 #: plone.app.layout/plone/app/layout/viewlets/contentviews.pt:8
 #: plone.app.users/plone/app/users/browser/account-panel.pt:21
 msgid "heading_views"
-msgstr "Ecrane"
+msgstr "Sabloane"
 
 #. Default: "Welcome!"
 #: CMFPlone/skins/plone_login/login_password.cpt:22
@@ -5994,7 +5994,7 @@ msgstr "In acest moment esti autentificat"
 #. Default: "Zope Server"
 #: plone.app.controlpanel/plone/app/controlpanel/maintenance.pt:58
 msgid "heading_zope_server"
-msgstr ""
+msgstr "Server zope"
 
 #. Default: "Select the restriction policy in this location."
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:77
@@ -6005,17 +6005,17 @@ msgstr "Te rog selecteaza modul in care vrei sa controlezi ce tipuri de continut
 #. Default: "Examples: pt-br (Brazilian Portuguese), en-us (American English) etc."
 #: plone.app.controlpanel/plone/app/controlpanel/language.py:26
 msgid "help_allow_combined_language_codes"
-msgstr ""
+msgstr "Exemple: pt-br (Brazilian Portuguese) en-us (American English) etc."
 
 #. Default: "If selected, users can add comments to this item."
 #: Archetypes/ExtensibleMetadata.py:68
 msgid "help_allow_comments"
-msgstr ""
+msgstr "Daca selectat, utilizatorii pot adauga comentarii la acest obiect."
 
 #. Default: "If an item has been excluded from navigation should it be shown in navigation when viewing content contained within it or within a subfolder."
 #: CMFPlone/skins/plone_deprecated/prefs_navigation_form.cpt:115
 msgid "help_allparents_enable"
-msgstr ""
+msgstr "Daca un obiect a fost exclus din navigare ar trebui sa fie afisat in navigare atunci cand se vizualizeaza continut din interiorul sau ori a unui subdirector"
 
 #. Default: "A short overview of who you are and what you do. Will be displayed on your author page, linked from the items you create."
 #: CMFPlone/skins/plone_deprecated/personalize_form.cpt:189
@@ -6042,7 +6042,7 @@ msgstr "Schimba proprietarul obiectului curent"
 #. Default: "Select the transition to be used for modifying the items state."
 #: CMFPlone/skins/plone_forms/content_status_history.cpt:288
 msgid "help_change_status_action"
-msgstr ""
+msgstr "Selecteaza tranzitia ce va fi folosita pentru a modifica starea obiectului."
 
 #. Default: "Enter a message to be saved alongside the check-in. This should explain what was changed, for audit purposes."
 #: plone.app.iterate/plone/app/iterate/browser/checkin.pt:26
@@ -6119,7 +6119,7 @@ msgstr "Listeaza campurile disponibile"
 #. Default: "If selected, the navigation tree will only show the current folder and its children at all times."
 #: plone.app.portlets/plone/app/portlets/portlets/navigation.py:61
 msgid "help_current_folder_only"
-msgstr ""
+msgstr "Daca selectat, portletul de navigare va arata doar directorul curent si copiii sau tot timpul."
 
 #. Default: "Enter your current password."
 #: CMFPlone/skins/plone_prefs/password_form.pt:36
@@ -6174,7 +6174,7 @@ msgstr "Introdu adresa ta de mail. Aceasta este necesara in cazul in care iti pi
 #. Default: "Enter an email address. This will be your login name. We respect your privacy, and will not give the address away to any third parties or expose it anywhere."
 #: plone.app.users/plone/app/users/browser/register.py:102
 msgid "help_email_creation_for_login"
-msgstr ""
+msgstr "Introdu o adresa de email. Aceasta va fi numele tau de utilizator. Noi iti respectam intimitatea si nu vom dezvalui aceasta adresa nici unei alte parti terte sau afisarea ei undeva."
 
 #. Default: "If selected, this item will not appear in the navigation tree"
 #: widget description of BooleanWidget for label Exclude from navigation
@@ -6214,7 +6214,7 @@ msgstr "Un identificator unic pentru grup. Nu poate fi modificat dupa creare."
 #: CMFPlone/skins/plone_deprecated/personalize_form.cpt:214
 #: plone.app.users/plone/app/users/userdataschema.py:59
 msgid "help_homepage"
-msgstr ""
+msgstr "Adresa de internet pentru pagina ta personala, daca ai una."
 
 #. Default: "Controls what types are addable in this location."
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:137
@@ -6231,7 +6231,7 @@ msgstr "Daca este activat, Plone va incerca sa modifice statusul intregului cont
 #. Default: "Whether or not to show the top, or 'root', node in the navigation tree. This is affected by the 'Start level' setting."
 #: plone.app.portlets/plone/app/portlets/portlets/navigation.py:51
 msgid "help_include_top_node"
-msgstr ""
+msgstr "Daca sa se afiseze si prima pagina in portletul de navigare. Aceasta este afectata de setarea de 'Nivelul de inceput'."
 
 #. Default: "Narrow down the search results from the parent Smart Folder(s) by using the criteria from this Smart Folder."
 #: widget description of BooleanWidget for label Inherit Criteria
@@ -6242,7 +6242,7 @@ msgstr "Comuta criteriul de mostenire. De ex, daca ai specificat ca doar articol
 #. Default: "By default, permissions from the container of this item are inherited. If you disable this, only the explicitly defined sharing permissions will be valid. In the overview, the symbol ${image_confirm_icon} indicates an inherited value. Similarly, the symbol ${image_link_icon} indicates a global role, which is managed by the site administrator."
 #: plone.app.workflow/plone/app/workflow/browser/sharing.pt:160
 msgid "help_inherit_local_roles"
-msgstr ""
+msgstr "Implicit, permisiile de la parintii acestui obiect sunt mostenite. Daca vei dezactiva aceasta optiune, doar permisiile explicite definit aici vor fi valide. In tabelul de mai sus, simbolul ${image_confirm_icon} indica o valoare mostenita. Similar, simbolul ${image_link_icon} indica un rol global ce este administrat de administratorul site-ului"
 
 #. Default: "If selected, only the 'Number of Items' indicated below will be displayed."
 #: widget description of BooleanWidget for label Limit Search Results
@@ -6252,7 +6252,7 @@ msgstr "Daca este selectat, doar 'Numarul de Elemente' indicat mai jos va fi afi
 #. Default: "Determines if your user name is listed in user searches done on this site."
 #: plone.app.users/plone/app/users/browser/personalpreferences.py:69
 msgid "help_listed_status"
-msgstr ""
+msgstr "Determina daca numele tau de utilizator este listat in cautari si listari in acest site."
 
 #. Default: "Select which types should be available in the 'More…' submenu <em>instead</em> of in the main pulldown. This is useful to indicate that these are not the preferred types in this location, but are allowed if you really need them."
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:181
@@ -6269,7 +6269,7 @@ msgstr "Locatia ta - fie oras sau tara - sau, intr-o companie, unde este localiz
 #. Default: "The geographical location associated with the item, if applicable."
 #: Archetypes/ExtensibleMetadata.py:106
 msgid "help_location_dc"
-msgstr ""
+msgstr "Locatia geografica asociata cu acest obiect, daca este aplicabila"
 
 #. Default: "Login names are case sensitive, make sure the caps lock key is not enabled."
 #: CMFPlone/skins/plone_login/failsafe_login_form.cpt:92
@@ -6289,7 +6289,7 @@ msgstr "Te rog sa introduci mesajul pe care vrei sa-l trimiti."
 #. Default: "The email login setting in the ${link} only affects new users. Existing users keep their current login name until they change their email address. Here you can update the login name of those users."
 #: plone.app.controlpanel/plone/app/controlpanel/emaillogin.pt:17
 msgid "help_migrate_email_login"
-msgstr ""
+msgstr "Setarile de autentificare prin email gasite in ${link} afecteaza doar utilizatori noi. Utilizatorii existenti isi pastreaza numele curent de autentificare pana cand isi schimba adresa de email. Aici poti sa actualizezi numele de autentificare ale acestor utilizatori."
 
 #. Default: "Date this content was modified last"
 #: Archetypes/ExtensibleMetadata.py:208
@@ -6299,7 +6299,7 @@ msgstr "Data la care a fost modificat ultima data acest continut"
 #. Default: "You may search for and choose a folder to act as the root of the navigation tree. Leave blank to use the Plone site root."
 #: plone.app.portlets/plone/app/portlets/portlets/navigation.py:41
 msgid "help_navigation_root"
-msgstr ""
+msgstr "Trebuie sa cauti si sa selectezi un director care sa se comporte ca si obiectul parinte in portletul de navigare. Lasa gol pentru a folosi site-ul Plone parinte"
 
 #. Default: "An integer value that specifies the number of folder levels below the site root that must be exceeded before the navigation tree will display. 0 means that the navigation tree should be displayed everywhere including pages in the root of the site. 1 means the tree only shows up inside folders located in the root and downwards, never showing at the top level."
 #: plone.app.portlets/plone/app/portlets/portlets/navigation.py:70
