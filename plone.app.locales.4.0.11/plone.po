@@ -5967,7 +5967,7 @@ msgstr "Valoare"
 #: CMFPlone/browser/templates/plone-upgrade.pt:186
 #: plone.app.controlpanel/plone/app/controlpanel/overview.pt:123
 msgid "heading_version_overview"
-msgstr ""
+msgstr "Versiunea curenta"
 
 #. Default: "Views"
 #: plone.app.layout/plone/app/layout/viewlets/contentviews.pt:8
@@ -6047,12 +6047,12 @@ msgstr "Selecteaza tranzitia ce va fi folosita pentru a modifica starea obiectul
 #. Default: "Enter a message to be saved alongside the check-in. This should explain what was changed, for audit purposes."
 #: plone.app.iterate/plone/app/iterate/browser/checkin.pt:26
 msgid "help_checkin_message"
-msgstr ""
+msgstr "Introdu un mesaj pentru a fi salvat alaturi de check-in. Acesta ar trebui sa explice ce a fost schimbat, pentru scopul de audit."
 
 #. Default: "Select the folder to checkout to."
 #: plone.app.iterate/plone/app/iterate/browser/checkout.pt:28
 msgid "help_checkout_folder"
-msgstr ""
+msgstr "Selecteaza directorul pentru a fi duplicat."
 
 #. Default: "Choose a date"
 #: CMFPlone/skins/plone_forms/calendar_popup.pt:37
@@ -6086,7 +6086,7 @@ msgstr "Cand este activat, o iconita va fi facuta vizibila pe fiecare pagina ce 
 #. Default: "&e = the triggering event, &c = the context, &u = the user"
 #: plone.app.contentrules/plone/app/contentrules/actions/logger.py:38
 msgid "help_contentrules_logger_message"
-msgstr ""
+msgstr "&e = evenimentul ce a fost declasat, &c = contextul, &u  = utilizatorul"
 
 #. Default: "The names of people that have contributed to this item. Each contributor should be on a separate line."
 #: Archetypes/ExtensibleMetadata.py:115
@@ -6304,22 +6304,22 @@ msgstr "Trebuie sa cauti si sa selectezi un director care sa se comporte ca si o
 #. Default: "An integer value that specifies the number of folder levels below the site root that must be exceeded before the navigation tree will display. 0 means that the navigation tree should be displayed everywhere including pages in the root of the site. 1 means the tree only shows up inside folders located in the root and downwards, never showing at the top level."
 #: plone.app.portlets/plone/app/portlets/portlets/navigation.py:70
 msgid "help_navigation_start_level"
-msgstr ""
+msgstr "O valoare integru care specifica numarul de nivele ale directoarelor sub root-ul site-ului care trebuie sa fie depasit inainte ca arborele de navigare sa fie afisat. 0 inseamna ca arbole de navigare ar trebui sa fie afisat peste tot, inclusiv pentru paginile din root-ul site-ului. 1 inseamna ca arborele apare doar in interiorul directoarelor localizate in root si mai in jos, niciodata fiind afisate la un nivel de top."
 
 #. Default: "The title of the navigation tree."
 #: plone.app.portlets/plone/app/portlets/portlets/navigation.py:34
 msgid "help_navigation_title"
-msgstr ""
+msgstr "Titlu arborelui de navigare."
 
 #. Default: "How many folders should be included before the navigation tree stops. 0 means no limit. 1 only includes the root folder."
 #: plone.app.portlets/plone/app/portlets/portlets/navigation.py:85
 msgid "help_navigation_tree_depth"
-msgstr ""
+msgstr "Cate directoare ar trebui sa fie incluse inainte ca arborele de navigare sa se opreasca. 0 inseamna nici o limita. 1 inseamna sa includa doar directorul parinte."
 
 #. Default: "The content types that should be shown in the navigation and site map."
 #: CMFPlone/skins/plone_deprecated/prefs_navigation_form.cpt:135
 msgid "help_navigationtypes"
-msgstr ""
+msgstr "Obiectele care ar trebui sa fie afisate in navigare si in harta site-ului"
 
 #. Default: "Enter your new password. Minimum 5 characters."
 #: CMFPlone/skins/plone_login/login_password.cpt:69
@@ -6341,12 +6341,12 @@ msgstr "Nu exista elemente in acest director ce pot fi selectate ca pagina de af
 #. Default: "By default, any content item in the root of the portal will be shown as a global section. If you turn this option off, only folders will be shown. This only has an effect if \"Automatically generate tabs\" is enabled."
 #: CMFPlone/skins/plone_deprecated/prefs_navigation_form.cpt:90
 msgid "help_nonfolderish_tabs"
-msgstr ""
+msgstr "In mod implicit, orice obiect aflat in radacina portalului va si afisat ca si o sectiune globala. Daca dezactivezi acesta optiune, doar directoarele vor fi afisate. Aceasta optiune are efect doar daca \" Generarea automata a Navigarii\" este activata."
 
 #. Default: "Please type your OpenID URL below to log in."
 #: plone.app.openid/plone/app/openid/skins/ploneopenid/login_form.cpt:68
 msgid "help_openid_identity_url"
-msgstr ""
+msgstr "Te rugam sa introduci id-ul tau de OpenID mai jos pentru a te autentifica."
 
 #. Default: "Minimum 5 characters."
 #: plone.app.users/plone/app/users/browser/register.py:55
@@ -6390,13 +6390,13 @@ msgstr "Introdu o scurta descriere sau comentarii pentru a fi adaugate in campul
 #. Default: "Enter a relative path e.g.: <br /> '..' for the parent folder <br /> '../..' for the parent's parent <br />'../somefolder' for a sibling folder"
 #: ATContentTypes/criteria/relativepath.py
 msgid "help_relativepath_criteria_customrelativepath"
-msgstr ""
+msgstr "Introdu o cale relativa ex: <br />'..' pentru directorul parinte <br /> '../..' pentru parintele parintelui <br />'../undirector' pentru un director copil"
 
 #. Default: "Check this to have your email address filled in automatically when you log in later."
 #: CMFPlone/skins/plone_login/login_form.cpt:186
 #: plone.app.openid/plone/app/openid/skins/ploneopenid/login_form.cpt:238
 msgid "help_remember_my_email"
-msgstr ""
+msgstr "Bifeaza aceasta optiune pentru a avea adresa de email introdusa automat cand te vei autentifica mai tarziu."
 
 #. Default: "Check this to have your user name filled in automatically when you log in later."
 #: CMFPlone/skins/plone_login/failsafe_login_form.cpt:151
@@ -6424,7 +6424,7 @@ msgstr "Intoarce membrii a caror adresa de mail contine aceasta valoare."
 #. Default: "Return users with full names containing this value."
 #: CMFPlone/skins/plone_forms/member_search_form.pt:66
 msgid "help_search_fullname"
-msgstr ""
+msgstr "Returneaza utilizatori cu nume intregi continand acesta valoare."
 
 #. Default: "Return items of a specific type."
 #: CMFPlone/skins/plone_deprecated/search_form.pt:129
@@ -6445,7 +6445,7 @@ msgstr "Intoarce articolele adaugate de la ultima ta autentificare, in ultima sa
 #. Default: "Search for users."
 #: CMFPlone/skins/plone_forms/ownership_form.cpt:200
 msgid "help_search_new_owner"
-msgstr ""
+msgstr "Cauta utilizatori."
 
 #. Default: "You may search for items based on their review state. If you wish to constrain results to items in certain states, select them from this list."
 #: CMFPlone/skins/plone_deprecated/search_form.pt:241
@@ -6462,7 +6462,7 @@ msgstr "Intoarce membrii cu toate drepturile selectate."
 #. Default: "Return items matching some or all of these tags. Multiple words may be found by pressing <strong>Ctrl</strong> (or <strong>Apple</strong> key on Mac) while clicking the keywords."
 #: CMFPlone/skins/plone_deprecated/search_form.pt:70
 msgid "help_search_tags"
-msgstr ""
+msgstr "Returneaza obiecte care se potrivesc unora sau tuturor din aceste valori. Cuvinte multiple s-ar putea gasi prin apasarea <strong>Ctrl</strong> (sau tasta <strong>Apple</strong> pe Mac)"
 
 #. Default: "For a simple text search, enter your search term here. Multiple words may be found by combining them with <strong>AND</strong> and <strong>OR</strong>. The text in this field will be matched with items' contents, title and description."
 #: CMFPlone/skins/plone_deprecated/search_form.pt:47
@@ -6477,12 +6477,12 @@ msgstr "Intoarce articolele care se potrivesc acestui titlu."
 #. Default: "Select what content type you wish to create."
 #: Archetypes/skins/archetypes/widgets/addable_support.pt:45
 msgid "help_select_content_to_create"
-msgstr ""
+msgstr "Selecteaza ce tip de obiect doresti sa creezi."
 
 #. Default: "Select where you want to create that."
 #: Archetypes/skins/archetypes/widgets/addable_support.pt:61
 msgid "help_select_where_to_create"
-msgstr ""
+msgstr "Selecteaza unde vrei sa creezi acest obiect."
 
 #. Default: "Existing values."
 #: widget description of MultiSelectionWidget for label Value
@@ -6512,17 +6512,17 @@ msgstr "Te rog sa iti introduci numele complet"
 #. Default: "go here"
 #: plone.app.workflow/plone/app/workflow/browser/sharing.pt:20
 msgid "help_sharing_go_here"
-msgstr ""
+msgstr "dute aici"
 
 #. Default: "You are adjusting the sharing privileges for a default view in a container. To adjust them for the entire container, ${go_here}."
 #: plone.app.workflow/plone/app/workflow/browser/sharing.pt:20
 msgid "help_sharing_page_default_page"
-msgstr ""
+msgstr "Ajustezi privilegiile de partajare pentru vizualizarea implicita a unui obiect. Pentru a face ajutari pentru intregul obiect, ${go_here}."
 
 #. Default: "Short name is the part that shows up in the URL of the item."
 #: CMFPlone/skins/plone_forms/folder_rename_form.cpt:72
 msgid "help_short_name_url"
-msgstr ""
+msgstr "Numele scurt este partea care apare in URL-ul acelui obiect."
 
 #. Default: "Should not contain spaces, underscores or mixed case. Short Name is part of the item's web address."
 #: Archetypes/BaseObject.py:90
@@ -6585,7 +6585,7 @@ msgstr "Controleaza cat de des este updatat un canal."
 #. Default: "Tags are commonly used for ad-hoc organization of content."
 #: Archetypes/ExtensibleMetadata.py:80
 msgid "help_tags"
-msgstr ""
+msgstr "Tag-urile sunt folosite in mod comun pentru organizarea ad-hoc al continutului"
 
 #. Default: "Choose a template that will be used for viewing this item."
 #: Archetypes/TemplateMixin.py:24
@@ -6611,7 +6611,7 @@ msgstr "Starile de workflow care ar trebui sa fie afisate in portetul de navigar
 #. Default: "Wysiwyg editor to use."
 #: plone.app.users/plone/app/users/browser/personalpreferences.py:48
 msgid "help_wysiwyg_editor"
-msgstr ""
+msgstr "Editorul Wysiwyg ce va fi folosit."
 
 #. Default: "hide"
 #: workflow transition defined in folder_workflow - title Member makes content private new state private
@@ -6622,12 +6622,12 @@ msgstr "ascunde"
 #. Default: "Hide the search form"
 #: CMFPlone/skins/plone_deprecated/search.pt:76
 msgid "hide_the_search_form"
-msgstr ""
+msgstr "Ascunde formularul de cautare"
 
 #. Default: "${action} — ${actor} on ${time}"
 #: plone.app.layout/plone/app/layout/viewlets/content_history.pt:40
 msgid "history_action"
-msgstr ""
+msgstr "${action} — ${actor} la ${time}"
 
 #. Default: "HTML"
 #: Archetypes/skins/archetypes/wysiwyg_support.pt:40
@@ -6638,49 +6638,49 @@ msgstr "HTML"
 #. Default: "If all of the following conditions are met:"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:72
 msgid "if_all_conditions_met"
-msgstr ""
+msgstr "Daca toate conditiile sunt satisfacute:"
 
 #. Default: "Your dashboard is currently empty. Click the <em>edit</em> tab to assign some personal portlets."
 #: plone.app.layout/plone/app/layout/dashboard/dashboard.pt:62
 msgid "info_empty_dashboard"
-msgstr ""
+msgstr "Panoul tau personal este momentan gol. Fa click pe tab-ul <em>editeaza</em> pentru a asigna niste portleti personali."
 
 #. Default: "What is OpenID?"
 #: plone.app.openid/plone/app/openid/skins/ploneopenid/login_form.cpt:106
 msgid "info_openid"
-msgstr ""
+msgstr "Ce este OpenID?"
 
 #: validation/validators/BaseValidators.py:19
 msgid "is not a decimal number."
-msgstr ""
+msgstr "nu este un numar decimal."
 
 #: validation/validators/BaseValidators.py:40
 msgid "is not a valid email address."
-msgstr ""
+msgstr "nu este o adresa de email valida."
 
 #: validation/validators/BaseValidators.py:31
 msgid "is not a valid international phone number."
-msgstr ""
+msgstr "nu este un numar de telefon international valid"
 
 #: validation/validators/BaseValidators.py:37
 msgid "is not a valid url."
-msgstr ""
+msgstr "nu este un url valid."
 
 #: validation/validators/BaseValidators.py:28
 msgid "is not a valid us phone number."
-msgstr ""
+msgstr "nu este un numar american valid."
 
 #: validation/validators/BaseValidators.py:34
 msgid "is not a valid zip code."
-msgstr ""
+msgstr "nu este un cod postal valid."
 
 #: validation/validators/BaseValidators.py:25
 msgid "is not a well formed SSN."
-msgstr ""
+msgstr "nu este un SSN bine format"
 
 #: validation/validators/BaseValidators.py:21
 msgid "is not an integer."
-msgstr ""
+msgstr "nu este un integru."
 
 #. Default: "Actions"
 #: CMFPlone/skins/plone_prefs/prefs_installed_product_overview.pt:67
@@ -6695,14 +6695,14 @@ msgstr "Actiuni"
 #. Default: "Activate"
 #: CMFPlone/skins/plone_prefs/prefs_install_products_form.pt:107
 msgid "label_activate"
-msgstr ""
+msgstr "Activeaza"
 
 #. Default: "Add"
 #: plone.app.content/plone/app/content/browser/folderfactories.pt:60
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-assignments.pt:114
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:128
 msgid "label_add"
-msgstr ""
+msgstr "Adauga"
 
 #. Default: "Add Comment"
 #: CMFPlone/skins/plone_forms/discussion_reply_preview.pt:56
@@ -6731,17 +6731,17 @@ msgstr "Adauga Utilizator"
 #. Default: "Add portlet"
 #: plone.app.portlets/plone/app/portlets/browser/templates/edit-manager-macros.pt:9
 msgid "label_add_portlet"
-msgstr ""
+msgstr "Adauga portlet"
 
 #. Default: "Add portlet…"
 #: plone.app.portlets/plone/app/portlets/browser/templates/edit-manager-macros.pt:15
 msgid "label_add_portlet_ellipsis"
-msgstr ""
+msgstr "Adauga portlet..."
 
 #. Default: "Add to the following groups:"
 #: plone.app.users/plone/app/users/browser/register.py:76
 msgid "label_add_to_groups"
-msgstr ""
+msgstr "Adauga la urmatoarele grupuri:"
 
 #. Default: "iCal"
 #: CMFPlone/skins/plone_content/event_view.pt:146
@@ -6791,17 +6791,17 @@ msgstr "Continut afectat"
 #. Default: "All"
 #: plone.app.content/plone/app/content/browser/table.pt:35
 msgid "label_all"
-msgstr ""
+msgstr "Toate"
 
 #. Default: "Show country-specific language variants"
 #: plone.app.controlpanel/plone/app/controlpanel/language.py:24
 msgid "label_allow_combined_language_codes"
-msgstr ""
+msgstr "Arata variantele de limbi intr-un format specific tarii"
 
 #. Default: "Allow comments"
 #: Archetypes/ExtensibleMetadata.py:66
 msgid "label_allow_comments"
-msgstr ""
+msgstr "Permite comentarii"
 
 #. Default: "Allow Discussion on this item"
 #: widget label of SelectionWidget - description ""
@@ -6811,12 +6811,12 @@ msgstr "Permite Discutii pentru acest element"
 #. Default: "Show items normally excluded from navigation if viewing their children."
 #: CMFPlone/skins/plone_deprecated/prefs_navigation_form.cpt:110
 msgid "label_allparents_enable"
-msgstr ""
+msgstr "Afiseaza obiectele care in mod normal sunt excluse din navigare daca vizitezi copii sai."
 
 #. Default: "an anonymous user"
 #: plone.locking/plone/locking/browser/locking.py:98
 msgid "label_an_anonymous_user"
-msgstr ""
+msgstr "un utilizator anonim"
 
 #. Default: "Anonymous User"
 #: plone.app.layout/plone/app/layout/viewlets/comments.pt:51
@@ -6839,17 +6839,17 @@ msgstr "Aplica modificarile"
 #. Default: "Apply to current folder only"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-assignments.pt:229
 msgid "label_apply_current_folder"
-msgstr ""
+msgstr "Aplica doar directorului curent"
 
 #. Default: "Apply to subfolders"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-assignments.pt:224
 msgid "label_apply_to_subfolders"
-msgstr ""
+msgstr "Aplica si la sub-directoare"
 
 #. Default: "at"
 #: Archetypes/Field.py:1971
 msgid "label_at"
-msgstr ""
+msgstr "la"
 
 #. Default: "Author"
 #: CMFPlone/skins/plone_deprecated/search_form.pt:289
@@ -6904,7 +6904,7 @@ msgstr "Valoare"
 #: plone.app.form/plone/app/form/widgets/ubermultiselectionwidget.pt:75
 #: plone.app.form/plone/app/form/widgets/uberselectionwidget.pt:64
 msgid "label_browse"
-msgstr ""
+msgstr "Parcurge"
 
 #. Default: "by ${author}"
 #: CMFPlone/skins/plone_content/folder_listing.pt:138
@@ -6917,27 +6917,27 @@ msgstr "Autor: ${author} "
 #. Default: "Entries"
 #: plone.app.controlpanel/plone/app/controlpanel/ram.pt:27
 msgid "label_cache_entries"
-msgstr ""
+msgstr "Intrari"
 
 #. Default: "Hits"
 #: plone.app.controlpanel/plone/app/controlpanel/ram.pt:24
 msgid "label_cache_hits"
-msgstr ""
+msgstr "Afisari"
 
 #. Default: "Key"
 #: plone.app.controlpanel/plone/app/controlpanel/ram.pt:23
 msgid "label_cache_key"
-msgstr ""
+msgstr "Cheie"
 
 #. Default: "Misses"
 #: plone.app.controlpanel/plone/app/controlpanel/ram.pt:25
 msgid "label_cache_misses"
-msgstr ""
+msgstr "Ratari"
 
 #. Default: "Size (bytes)"
 #: plone.app.controlpanel/plone/app/controlpanel/ram.pt:26
 msgid "label_cache_size_bytes"
-msgstr ""
+msgstr "Dimensiune (biti)"
 
 #. Default: "Calendar"
 #: CMFPlone/skins/plone_forms/calendar_popup.pt:21
@@ -6954,12 +6954,12 @@ msgstr "Anuleaza"
 #. Default: "Normally we would offer to send the user an email with instructions to set a password on completion of this form. But this site does not have a valid email setup. You can fix this in the Mail settings."
 #: plone.app.users/plone/app/users/browser/register.py:144
 msgid "label_cant_mail_password_reset"
-msgstr ""
+msgstr "In mod normal, am oferi sa trimitem utilizatorului un email cu instructiuni pentru a seta o parola noua dupa completarea acestui formular. Din pacate acest site nu are o configuratie a sistemului de email corecta. Poti repara acest lucru la setarile de Email."
 
 #. Default: "Change"
 #: plone.app.controlpanel/plone/app/controlpanel/types.pt:53
 msgid "label_change"
-msgstr ""
+msgstr "Schimba"
 
 #. Default: "Change Comment"
 #: CMFPlone/skins/plone_forms/discussion_reply_preview.pt:48
@@ -6969,7 +6969,7 @@ msgstr "Modifica Comentariu"
 #. Default: "Change content item as default view..."
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:309
 msgid "label_change_default_item"
-msgstr ""
+msgstr "Schimba obiectul setat ca si model implicit"
 
 #. Default: "Change content item\nas default view..."
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:387
@@ -6997,7 +6997,7 @@ msgstr "Schimba Starea"
 #. Default: "${count} characters remaining"
 #: Archetypes/skins/archetypes/widgets/textarea.pt:52
 msgid "label_characters_remaining"
-msgstr ""
+msgstr "${count} caractere ramase"
 
 #. Default: "Check for duplicate emails"
 #: plone.app.controlpanel/plone/app/controlpanel/emaillogin.pt:69
