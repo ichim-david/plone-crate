@@ -3876,7 +3876,7 @@ msgstr "Acest nume de utilizator este rezervat. Va rugam sa selectati un alt num
 #: dynamic view name template atct_album_view on type Large Plone Folder
 #: dynamic view name template atct_album_view on type Topic
 msgid "Thumbnail view"
-msgstr "Thumbnail view"
+msgstr "Afisare album"
 
 #: plone.portlet.static/plone/portlet/static/static.py:41
 msgid "Tick this box if you want to render the text above without the standard header, border or footer."
@@ -4674,7 +4674,7 @@ msgstr "Panoul de control al regulilor pentru obiecte"
 #. Default: "Use the ${controlpanel_link} to create new rules or delete or modify existing ones."
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-assignments.pt:53
 msgid "contentrules_controlpanel_link"
-msgstr "Foloseste %{controlpanel_link} pentru a crea, sterge sau modifica reguli existente."
+msgstr "Foloseste ${controlpanel_link} pentru a crea, sterge sau modifica reguli existente."
 
 #. Default: "Enter a short description of the rule and its purpose."
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-elements.pt:39
@@ -5117,7 +5117,7 @@ msgstr ""
 #. Default: "An item's status (also called its review state) determines who can see it. Another way to control the visibility of an item is with its <em class=\"discreet\">Publishing Date</em>. An item is not publicly searchable before its publishing date. This will prevent the item from showing up in portlets and folder listings, although the item will still be available if accessed directly via its URL."
 #: CMFPlone/skins/plone_forms/content_status_history.cpt:51
 msgid "description_publishing_process_short"
-msgstr ""
+msgstr "Starea unui obiect ( de asemenea numit starea lui de revizie) determina cine il poate vedea. Un alt fel de a controla vizibilitatea unui obiect este cu <em class=\"discree\">Data de publicare</em>. Un obiect nu este cautabil inainte de data sa de publicare. Acest lucru va preveni un obiect din a aparea in portleti si listari de obiecte, cu toate ca un obiect va fi inca accessibil de la URL-ul sau direct."
 
 #. Default: "You are logged in via HTTP authentication (i.e. the Zope Management Interface). In order to log out, you must:"
 #: CMFPlone/skins/plone_login/logged_out.cpt:41
@@ -5178,7 +5178,7 @@ msgstr ""
 #. Default: "You can control who can view and edit your item using the list below."
 #: plone.app.workflow/plone/app/workflow/browser/sharing.pt:33
 msgid "description_sharing_control"
-msgstr ""
+msgstr "Poti controla cine poate viziona si edita obiectul folosing lista de mai jos."
 
 #. Default: "To access this part of the site, you need to log in with your user name and password."
 #: CMFPlone/skins/plone_login/failsafe_login_form.cpt:24
@@ -7011,12 +7011,12 @@ msgstr "Confirma parola"
 #. Default: "Allow the standard types to be added"
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:101
 msgid "label_constraintypes_allow_standard"
-msgstr ""
+msgstr "Permite obiectele standard sa fie adaugate"
 
 #. Default: "Specify types manually"
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:112
 msgid "label_constraintypes_specify_manually"
-msgstr ""
+msgstr "Specifica tipul obiectelelor manual"
 
 #. Default: "Contact E-mail"
 #: widget label of StringWidget - description ""
@@ -7121,7 +7121,7 @@ msgstr "Drepturi de autor"
 #. Default: "Create and apply new tags."
 #: Archetypes/skins/archetypes/widgets/keyword.pt:128
 msgid "label_create_new_tags"
-msgstr ""
+msgstr "Creeaza si aplica noi taguri."
 
 #. Default: "Creation Date"
 #: Archetypes/ExtensibleMetadata.py:191
@@ -7275,7 +7275,7 @@ msgstr ""
 #. Default: "You are editing the default view of a container. If you wanted to edit the container itself, ${go_here}."
 #: Archetypes/skins/archetypes/edit_macros.pt:41
 msgid "label_edit_default_view_container"
-msgstr ""
+msgstr "Editezi tema implicita a unui obiect. Daca vrei sa editezi obiectul in sine, ${go_here}"
 
 #. Default: "go here"
 #: Archetypes/skins/archetypes/edit_macros.pt:41
@@ -7619,7 +7619,7 @@ msgstr "Mosteneste criteriul"
 #. Default: "Inherit permissions from higher levels"
 #: plone.app.workflow/plone/app/workflow/browser/sharing.pt:149
 msgid "label_inherit_local_roles"
-msgstr ""
+msgstr "Mosteneste permisiile de la nivelurile mai ridicate"
 
 #. Default: "Number of Items"
 #: widget label of IntegerWidget - description ""
@@ -7801,7 +7801,7 @@ msgstr "Filtreaza starea de workflow"
 #. Default: "Enter one tag per line, multiple words allowed."
 #: Archetypes/skins/archetypes/widgets/keyword.pt:132
 msgid "label_newTagsHelp"
-msgstr ""
+msgstr "Introdu un tag per linie, mai multe cuvinte per linie fiind permise."
 
 #. Default: "New items since"
 #: CMFPlone/skins/plone_deprecated/search_form.pt:177
@@ -7859,12 +7859,12 @@ msgstr ""
 #. Default: "No tags currently selected."
 #: Archetypes/skins/archetypes/widgets/keyword.pt:79
 msgid "label_noTagsSelected"
-msgstr ""
+msgstr "Nu este selectat nici un tag"
 
 #. Default: "No change"
 #: CMFPlone/skins/plone_forms/content_status_history.cpt:319
 msgid "label_no_change"
-msgstr ""
+msgstr "Nici o schimbare"
 
 #. Default: "No group was specified."
 #: CMFPlone/skins/plone_deprecated/prefs_group_members.cpt:81
@@ -8206,37 +8206,37 @@ msgstr "Salveaza"
 #. Default: "Save settings"
 #: plone.app.portlets/plone/app/portlets/browser/templates/edit-manager-contextual.pt:178
 msgid "label_save_settings"
-msgstr ""
+msgstr "Salveaza setarile"
 
 #. Default: "Categorization"
 #: ./ATContentTypes/content/schemata.py
 msgid "label_schema_categorization"
-msgstr ""
+msgstr "Clasificari"
 
 #. Default: "Dates"
 #: ./ATContentTypes/content/schemata.py
 msgid "label_schema_dates"
-msgstr ""
+msgstr "Data"
 
 #. Default: "Default"
 #: ./ATContentTypes/content/schemata.py
 msgid "label_schema_default"
-msgstr ""
+msgstr "Prestabilit"
 
 #. Default: "Metadata"
 #: ./ATContentTypes/content/schemata.py
 msgid "label_schema_metadata"
-msgstr ""
+msgstr "Metadate"
 
 #. Default: "Ownership"
 #: ./ATContentTypes/content/schemata.py
 msgid "label_schema_ownership"
-msgstr ""
+msgstr "Proprietate"
 
 #. Default: "Settings"
 #: ./ATContentTypes/content/schemata.py
 msgid "label_schema_settings"
-msgstr ""
+msgstr "Setari"
 
 #. Default: "Search"
 #: CMFPlone/skins/plone_deprecated/prefs_group_members.cpt:215
@@ -8297,7 +8297,7 @@ msgstr "Selecteaza un element de continut"
 #. Default: "Select from existing tags."
 #: Archetypes/skins/archetypes/widgets/keyword.pt:42
 msgid "label_select_existing_tags"
-msgstr ""
+msgstr "Selecteaza din tag-urile existente."
 
 #. Default: "Value"
 #: widget label of MultiSelectionWidget - description "Existing values."
@@ -8512,7 +8512,7 @@ msgstr ""
 #: Archetypes/ExtensibleMetadata.py:79
 #: CMFPlone/skins/plone_deprecated/search_form.pt:68
 msgid "label_tags"
-msgstr ""
+msgstr "Tag-uri"
 
 #. Default: "View template"
 #: Archetypes/TemplateMixin.py:22
@@ -8522,7 +8522,7 @@ msgstr "Vezi model"
 #. Default: "Text Format"
 #: Archetypes/skins/archetypes/widgets/visual.pt:35
 msgid "label_text_format"
-msgstr ""
+msgstr "Format text"
 
 #. Default: "Time"
 #: CMFPlone/skins/plone_prefs/prefs_error_log_form.pt:89
@@ -8557,7 +8557,7 @@ msgstr "Afiseaza traceback-ul ca text"
 #. Default: "Type restrictions"
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:72
 msgid "label_type_restrictions"
-msgstr ""
+msgstr "Restrictia tipurilor de obiecte"
 
 #. Default: "Types"
 #: CMFPlone/skins/plone_prefs/prefs_installed_product_overview.pt:43
@@ -9734,22 +9734,22 @@ msgstr "Acest site a fost construit folosind Sistemul de Management al Continutu
 #. Default: "Can add"
 #: plone.app.workflow/plone/app/workflow/localroles.py:32
 msgid "title_can_add"
-msgstr ""
+msgstr "Poate Adauga"
 
 #. Default: "Can edit"
 #: plone.app.workflow/plone/app/workflow/localroles.py:25
 msgid "title_can_edit"
-msgstr ""
+msgstr "Poate Edita"
 
 #. Default: "Can review"
 #: plone.app.workflow/plone/app/workflow/localroles.py:39
 msgid "title_can_review"
-msgstr ""
+msgstr "Poate reviziu"
 
 #. Default: "Can view"
 #: plone.app.workflow/plone/app/workflow/localroles.py:18
 msgid "title_can_view"
-msgstr ""
+msgstr "Poate viziona"
 
 #. Default: "Cancel check-out of ${object_title}."
 #: plone.app.iterate/plone/app/iterate/browser/cancel.pt:11
@@ -9801,7 +9801,7 @@ msgstr "Configureaza tipurile de continut care pot fi adaugate aici"
 #. Default: "Content rules for ${context}"
 #: plone.app.contentrules/plone/app/contentrules/browser/templates/manage-assignments.pt:36
 msgid "title_contentrules_assigned"
-msgstr ""
+msgstr "Reguli de obiect pentru ${context}"
 
 #. Default: "Substitutions"
 #: plone.app.contentrules/plone/app/contentrules/actions/templates/mail.pt:138
