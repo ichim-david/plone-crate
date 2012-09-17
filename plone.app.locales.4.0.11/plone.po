@@ -4391,49 +4391,41 @@ msgstr ""
 
 #. Default: "<code>0</code> — Access Key details"
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:74
-#, fuzzy
 msgid "accesskey_accesskey_details"
 msgstr "<code>0</code> Detalii Taste Accesibilitate"
 
 #. Default: "<code>5</code> — Advanced Search"
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:71
-#, fuzzy
 msgid "accesskey_advanced_search"
 msgstr "<code>5</code>Cautare Avansata"
 
 #. Default: "<code>9</code> — Contact information"
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:73
-#, fuzzy
 msgid "accesskey_contact"
 msgstr "<code>9</code>Informatii de contact"
 
 #. Default: "<code>1</code> — Home Page"
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:67
-#, fuzzy
 msgid "accesskey_home_page"
 msgstr "<code>1</code>Prima Pagina"
 
 #. Default: "<code>6</code> — Site navigation tree"
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:72
-#, fuzzy
 msgid "accesskey_navigation"
 msgstr "<code>6</code>Structura navigare site"
 
 #. Default: "<code>4</code> — Search field focus"
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:70
-#, fuzzy
 msgid "accesskey_search_field"
 msgstr "<code>4</code>Focus camp cautare"
 
 #. Default: "<code>3</code> — Site Map"
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:69
-#, fuzzy
 msgid "accesskey_sitemap"
 msgstr "<code>3</code>Harta site"
 
 #. Default: "<code>2</code> — Skip to content"
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:68
-#, fuzzy
 msgid "accesskey_skip_to_content"
 msgstr "<code>2</code>Sari la continut"
 
@@ -4449,7 +4441,6 @@ msgstr "(Acesta operatie va sterge un total de %{number_of_items_to_delete} de o
 
 #. Default: "Do you really want to delete this item?"
 #: CMFPlone/skins/plone_forms/delete_confirmation_page.cpt:27
-#, fuzzy
 msgid "alert_really_delete"
 msgstr "Vrei intr-adevar sa stergi acest element?"
 
@@ -4478,7 +4469,6 @@ msgstr "Primesti acest mesaj deoarece ${from_address}iti trimite feedback asupra
 
 #. Default: "Back to Add-ons"
 #: CMFPlone/skins/plone_prefs/prefs_installed_product_overview.pt:21
-#, fuzzy
 msgid "back_to_addremove_products"
 msgstr "Inapoi la Adauga/Sterge Produse"
 
@@ -4498,7 +4488,6 @@ msgstr "Cele ${number} precedente"
 #: CMFPlone/skins/plone_deprecated/search.pt:118
 #: CMFPlone/skins/plone_forms/member_search_results.pt:32
 #: plone.app.querystring/plone/app/querystring/results.pt:13
-#, fuzzy
 msgid "batch_x_items_matching_your_criteria"
 msgstr "${number} elemente potrivit criteriilor."
 
@@ -4527,7 +4516,6 @@ msgstr "Ai uitat parola?"
 
 #. Default: "Full review list…"
 #: plone.app.portlets/plone/app/portlets/portlets/review.pt:42
-#, fuzzy
 msgid "box_full_review_list"
 msgstr "Lista intreaga a reviziilor"
 
@@ -4545,19 +4533,16 @@ msgstr "Ultima modificare"
 
 #. Default: "More news…"
 #: plone.app.portlets/plone/app/portlets/portlets/news.pt:43
-#, fuzzy
 msgid "box_more_news_link"
 msgstr "Mai multe stiri"
 
 #. Default: "All recent changes…"
 #: plone.app.portlets/plone/app/portlets/portlets/recent.pt:51
-#, fuzzy
 msgid "box_more_recently_changed"
 msgstr "Toate modificarile recente"
 
 #. Default: "More…"
 #: plone.app.portlets/plone/app/portlets/portlets/rss.pt:40
-#, fuzzy
 msgid "box_morelink"
 msgstr "Continuare..."
 
@@ -4611,7 +4596,6 @@ msgstr "Autentificare"
 #. Default: "Upcoming events…"
 #: plone.app.event/plone/app/event/portlets/events.pt:78
 #: plone.app.portlets/plone/app/portlets/portlets/events.pt:78
-#, fuzzy
 msgid "box_upcoming_events"
 msgstr "Evenimente urmatoare"
 
@@ -4788,7 +4772,6 @@ msgstr "Tastele de acces reprezinta o metoda de navigare ce iti permite sa navig
 
 #. Default: "This site uses the ${plone} and has been designed to be completely accessible and usable, working in accordance with the Web Content Accessibility Guidelines (${wcag} v1.0). If there is anything on this site — accessibility or validation related — that is not according to the standard, please contact the ${site_admin}, and not the Plone Team."
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:46
-#, fuzzy
 msgid "description_accessibility_info"
 msgstr "Acest site foloseste ${plone} si a fost proiectat pentru a fi complet utilizabil si accesibil, in conformitate cu Ghidul de Accesibilitate pentru Continutul Web ( ${wcag} v1.0). Daca exista orice element pe acest site care, din punctul de vedere al validitatii sau a accesibilitatii nu se conformeaza cu standardul, te rugam sa ne contactezi administratorul la ${site_admin}, si nu Echipa Plone."
 
@@ -4799,7 +4782,6 @@ msgstr "Ne-am angajat sa folosim cunostintele noastre si intelegerea modului in 
 
 #. Default: "Plain text formatting. URLs will be turned into links."
 #: CMFPlone/skins/plone_forms/discussion_reply_form.cpt:157
-#, fuzzy
 msgid "description_add_comment"
 msgstr "Poti adauga un comentariu completand formularul de mai jos. Pentru a vedea cum va arata inainte de a-l inscrie, fa click pe 'Previzualizare comentariu'."
 
@@ -4810,7 +4792,6 @@ msgstr "Selecteaza tipul de articol pe care doresti sa-l adaugi directorului."
 
 #. Default: "This search form enables you to find content on the site by specifying one or more search terms. <br /> Remember that you can use the quick search anytime, it's normally good enough, this search form is just if you want to be more specific."
 #: CMFPlone/skins/plone_deprecated/search_form.pt:19
-#, fuzzy
 msgid "description_advanced_search"
 msgstr "Acest formular de cautare iti permite sa gasesti cauti pe site specificand unul sau mai multi termeni de cautare. <br /> Atentie: poti sa folosesti cautarea rapida oricand, de obicei aceasta fiind de ajuns. Acest formular se va folosi doar daca doresti sa cauti ceva anume."
 
@@ -4896,7 +4877,6 @@ msgstr "Zona de configurare Plone si Produse Add-on."
 
 #. Default: "The ${plonecms} is ${copyright} 2000-${current_year} by the ${plonefoundation} and friends."
 #: plone.app.layout/plone/app/layout/viewlets/footer.pt:17
-#, fuzzy
 msgid "description_copyright"
 msgstr "${plonecms} este Copyright ${copyright} 2000-${current_year} de catre ${plonefoundation} si altii."
 
@@ -5306,7 +5286,6 @@ msgstr "Foloseste formularul de mai jos pentru a iti modifica parola."
 #. Default: "Click the user's name to see and change the details of a specific user. You can also add and remove users."
 #: CMFPlone/skins/plone_deprecated/prefs_users_overview.cpt:60
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups_usersoverview.pt:62
-#, fuzzy
 msgid "description_user_management"
 msgstr "Fa click pe numele de utilizator pentru a schimba detaliile unui anumit utilizator, sau fa click pe iconita cu plic pentru a ii trimite email. Poti edita drepturile si adresa de mail sau poti elimina utilizatori direct din acestformular. De asemenea poti accesa formularul de inregistrare a utilizatorilor pentru a adauga noi utilizatori. Pentru a dezactiva un utilizator fara a-l sterge, trebuie doar sa elimini toatedrepturile pentru respectivul utilizator."
 
@@ -5327,7 +5306,6 @@ msgstr "Am folosit ${xhtml} 1.0 si ${css} ce se conformeaza specificatiilor, asa
 
 #. Default: "We have also endeavoured to achieve AA accessibility as measured against version 1.0 of the ${wcag}. We are aware however, that a number of the checkpoints of the ${wcag2} are subjective — and although we are sure that we have met them squarely, there may be instances where interpretation may vary."
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:114
-#, fuzzy
 msgid "description_wcag_aa_rating"
 msgstr "Ne-am angajat de asemenea sa obtinem accesibilitate de nivel AA, masurata potrivit versiunii 1.0 a ${wcag}. Suntem constienti totusi ca exista anumite elemente din ${wcag2} ce sunt subiective si, desi suntem siguri ca le-am atins, exista cazuri in care interpretarea subiectiva poate sa faca rezultatul variabil."
 
@@ -5397,7 +5375,6 @@ msgstr "si"
 #. Default: "More information about this event…"
 #: CMFPlone/skins/plone_content/event_view.pt:158
 #: plone.app.event/plone/app/event/browser/event_view.pt:188
-#, fuzzy
 msgid "event_more_information"
 msgstr "Mai multe informatii despre acest eveniment"
 
@@ -5447,13 +5424,11 @@ msgstr ""
 
 #. Default: "More…"
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:488
-#, fuzzy
 msgid "folder_add_more"
 msgstr "Mai multe"
 
 #. Default: "Restrictions…"
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:501
-#, fuzzy
 msgid "folder_add_settings"
 msgstr "Setari"
 
@@ -5474,7 +5449,6 @@ msgstr "In sus cu un nivel"
 
 #. Default: "All content created by ${user}…"
 #: CMFPlone/skins/plone_content/author.cpt:286
-#, fuzzy
 msgid "go_to_search_author_content"
 msgstr "Continutul creat de ${user}"
 
@@ -5583,7 +5557,6 @@ msgstr "Creaza un grup"
 
 #. Default: "Sharing for ${folder}"
 #: plone.app.workflow/plone/app/workflow/browser/sharing.pt:30
-#, fuzzy
 msgid "heading_currently_assigned_shares"
 msgstr "Permisiunile curente de partajare pentru '${folder}'"
 
@@ -5648,7 +5621,6 @@ msgstr "Membrii grupului ${groupname}"
 
 #. Default: "Group Memberships for ${userid}"
 #: CMFPlone/skins/plone_deprecated/prefs_user_memberships.pt:53
-#, fuzzy
 msgid "heading_group_memberships_for"
 msgstr "Grupuri din care face parte ${username}"
 
@@ -5707,7 +5679,6 @@ msgstr "Cauta membri"
 #. Default: "Current group memberships"
 #: CMFPlone/skins/plone_deprecated/prefs_user_memberships.pt:91
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups_usermembership.pt:84
-#, fuzzy
 msgid "heading_memberships_current"
 msgstr "Membrii Grupului Curent"
 
@@ -5770,7 +5741,6 @@ msgstr "Portleti asignati aici"
 
 #. Default: "User properties for ${fullname} (${username})"
 #: CMFPlone/skins/plone_deprecated/prefs_user_details.cpt:56
-#, fuzzy
 msgid "heading_prefs_user_details"
 msgstr "Proprietati Utilizator pentru ${username}"
 
@@ -5802,7 +5772,6 @@ msgstr "Elemente publicate"
 
 #. Default: "Registration form"
 #: plone.app.users/plone/app/users/browser/register.py:462
-#, fuzzy
 msgid "heading_registration_form"
 msgstr "Formular de inregistrare"
 
@@ -5871,7 +5840,6 @@ msgstr "Administratorul site-ului a fost contactat."
 
 #. Default: "Send this page to someone"
 #: CMFPlone/skins/plone_forms/sendto_form.cpt:20
-#, fuzzy
 msgid "heading_send_page_to"
 msgstr "Trimite aceasta pagina unei persoane"
 
@@ -5998,7 +5966,6 @@ msgstr "Server zope"
 
 #. Default: "Select the restriction policy in this location."
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:77
-#, fuzzy
 msgid "help_add_restriction_mode"
 msgstr "Te rog selecteaza modul in care vrei sa controlezi ce tipuri de continut pot fi adaugate in acest director."
 
@@ -6020,7 +5987,6 @@ msgstr "Daca un obiect a fost exclus din navigare ar trebui sa fie afisat in nav
 #. Default: "A short overview of who you are and what you do. Will be displayed on your author page, linked from the items you create."
 #: CMFPlone/skins/plone_deprecated/personalize_form.cpt:189
 #: plone.app.users/plone/app/users/userdataschema.py:66
-#, fuzzy
 msgid "help_biography"
 msgstr "O descriere scurta a cine esti si ceea ce faci. Va fi afisat pe pagina ta de autor, la care se face legatura de pe toate elementele pe care le creezi."
 
@@ -6079,7 +6045,6 @@ msgstr "Selecteaza editorul pe care vrei sa-l folosesti pentru editarea continut
 #. Default: "When checked, an option will be made visible on each page which allows you to edit content with your favorite editor instead of using browser-based editors. This requires an additional application, most often ExternalEditor or ZopeEditManager, installed client-side. Ask your administrator for more information if needed."
 #: CMFPlone/skins/plone_deprecated/personalize_form.cpt:284
 #: plone.app.users/plone/app/users/browser/personalpreferences.py:56
-#, fuzzy
 msgid "help_content_ext_editor"
 msgstr "Cand este activat, o iconita va fi facuta vizibila pe fiecare pagina ce iti va permite sa editezi continutul cu editorul tau favorit, in locul celui bazat pe browser. Aceasta necesita o aplicatie externa numit ExternalEditor, instalata pe calculatorul tau. Daca e nevoie, cere-i administratorului mai multe detalii."
 
@@ -6095,7 +6060,6 @@ msgstr "Numele persoanelor care au contribuit la acest articol. Fiecare ar trebu
 
 #. Default: "Copyright statement or other rights information on this item."
 #: Archetypes/ExtensibleMetadata.py:173
-#, fuzzy
 msgid "help_copyrights"
 msgstr "Informatii privind drepturile de autor asupra articolului."
 
@@ -6106,13 +6070,11 @@ msgstr "Data la care acest obiect a fost creat"
 
 #. Default: "Persons responsible for creating the content of this item. Please enter a list of user names, one per line. The principal creator should come first."
 #: Archetypes/ExtensibleMetadata.py:126
-#, fuzzy
 msgid "help_creators"
 msgstr "Persoanele responsabile pentru crearea continutului unui element. Te rog sa introduci o lista de nume de utilizatori, una pe linie. Autorul principal ar trebui sa fie primul."
 
 #. Default: "Should not contain spaces, underscores or mixed case. Short Name is part of the item's web address."
 #: widget description of StringWidget for label Field name
-#, fuzzy
 msgid "help_criteria_field_name"
 msgstr "Listeaza campurile disponibile"
 
@@ -6149,7 +6111,6 @@ msgstr "Inceputul pentru intervalul de date pentru cautare"
 
 #. Default: "Used in item listings and search results."
 #: Archetypes/ExtensibleMetadata.py:94
-#, fuzzy
 msgid "help_description"
 msgstr "Introdu o descriere pe scurt a articolului."
 
@@ -6162,7 +6123,6 @@ msgstr "Determina daca Numele Scurte (cunoscute ca si ID-uri) sunt modificabile 
 #. Default: "The date when the item will be published. If no date is selected the item will be published immediately."
 #: Archetypes/ExtensibleMetadata.py:139
 #: CMFPlone/skins/plone_forms/content_status_history.cpt:221
-#, fuzzy
 msgid "help_effective_date"
 msgstr "Data cand va fi disponibil (bineinteles, trebuie publicat documentul). Astfel, poti publica un document in avans, dar nu va fi vizibil inainte de aceasta data. Daca nu este selectata nici o data, documentul va fi imediat activ."
 
@@ -6200,7 +6160,6 @@ msgstr "Introdu numele tau complet, ex. Ion Gheorghe"
 
 #. Default: "By default, all items created at the root level will add to the global section navigation. You can turn this off if you prefer manually constructing this part of the navigation."
 #: CMFPlone/skins/plone_deprecated/prefs_navigation_form.cpt:65
-#, fuzzy
 msgid "help_generated_tabs"
 msgstr "Implicit, toate directoarele create la nivelul radacina vor genera sectiuni de navigare globala. Poti sa opresti acest tip de comportament, daca preferi sa construiesti manual aceasta parte a navigarii site-ului."
 
@@ -6218,13 +6177,11 @@ msgstr "Adresa de internet pentru pagina ta personala, daca ai una."
 
 #. Default: "Controls what types are addable in this location."
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:137
-#, fuzzy
 msgid "help_immediately_addable_types"
 msgstr "Din tipurile selectate mai sus, anumite elemente pot fi disponibile prin menul standard \"Adauga\". Tipurile aditionale selectate mai sus vor putea fi adaugate printr-un formular accesibil din acelasi menu."
 
 #. Default: "If checked, this will attempt to modify the status of all content in any selected folders and their subfolders."
 #: CMFPlone/skins/plone_forms/content_status_history.cpt:211
-#, fuzzy
 msgid "help_include_contained_objects"
 msgstr "Daca este activat, Plone va incerca sa modifice statusul intregului continut in oricare director selectat si subdirectoarele lor."
 
@@ -6235,7 +6192,6 @@ msgstr "Daca sa se afiseze si prima pagina in portletul de navigare. Aceasta est
 
 #. Default: "Narrow down the search results from the parent Smart Folder(s) by using the criteria from this Smart Folder."
 #: widget description of BooleanWidget for label Inherit Criteria
-#, fuzzy
 msgid "help_inherit_criteria"
 msgstr "Comuta criteriul de mostenire. De ex, daca ai specificat ca doar articolele din ultimele trei zile sa fie aratate intr-o tema deasupra celei curente, aceasta tema va avea acelasi criteriu automat."
 
@@ -6256,7 +6212,6 @@ msgstr "Determina daca numele tau de utilizator este listat in cautari si listar
 
 #. Default: "Select which types should be available in the 'More…' submenu <em>instead</em> of in the main pulldown. This is useful to indicate that these are not the preferred types in this location, but are allowed if you really need them."
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:181
-#, fuzzy
 msgid "help_locally_allowed_types"
 msgstr "Selecteaza tipurile de continut ce vor putea fi adaugate in acest director."
 
@@ -6417,7 +6372,6 @@ msgstr "Intoarce articolele corespunzatoare acestei descrieri. Mai multe cuvinte
 
 #. Default: "Find users whose email addresses contain"
 #: CMFPlone/skins/plone_forms/member_search_form.pt:51
-#, fuzzy
 msgid "help_search_email"
 msgstr "Intoarce membrii a caror adresa de mail contine aceasta valoare."
 
@@ -6433,7 +6387,6 @@ msgstr "intoarce articolele de un anumit tip."
 
 #. Default: "Find users whose login names contain"
 #: CMFPlone/skins/plone_forms/member_search_form.pt:36
-#, fuzzy
 msgid "help_search_name"
 msgstr "Intoarce membrii cu nume de login continand acesta valoare."
 
@@ -6449,13 +6402,11 @@ msgstr "Cauta utilizatori."
 
 #. Default: "You may search for items based on their review state. If you wish to constrain results to items in certain states, select them from this list."
 #: CMFPlone/skins/plone_deprecated/search_form.pt:241
-#, fuzzy
 msgid "help_search_review_status"
 msgstr "In calitate de revizuitor, poti cauta articole in functie de starea lor de revizie. Daca doresti ca rezultatele sa reflecte articole intr-o anumita stare, selecteaza-le din aceasta lista."
 
 #. Default: "Find users with all of the selected roles."
 #: CMFPlone/skins/plone_forms/member_search_form.pt:85
-#, fuzzy
 msgid "help_search_roles"
 msgstr "Intoarce membrii cu toate drepturile selectate."
 
@@ -6526,7 +6477,6 @@ msgstr "Numele scurt este partea care apare in URL-ul acelui obiect."
 
 #. Default: "Should not contain spaces, underscores or mixed case. Short Name is part of the item's web address."
 #: Archetypes/BaseObject.py:90
-#, fuzzy
 msgid "help_shortname"
 msgstr "Identificatorii sunt parte a adresei web al unui element. Nu ar trebui sa contina spatii, litere mari sau alte caractere speciale."
 
@@ -6537,13 +6487,11 @@ msgstr "Parola pentru contul ESMTP."
 
 #. Default: "The port of your local SMTP (outgoing e-mail) server. Usually '25'."
 #: plone.app.controlpanel/plone/app/controlpanel/mail.py:50
-#, fuzzy
 msgid "help_smtp_port"
 msgstr "Portul serverului SMTP (serverul ce trimite emailuri). De obicei \"25\"."
 
 #. Default: "The address of your local SMTP (outgoing e-mail) server. Usually 'localhost', unless you use an external server to send e-mail."
 #: plone.app.controlpanel/plone/app/controlpanel/mail.py:40
-#, fuzzy
 msgid "help_smtp_server"
 msgstr "Aceasta este adresa server-ului local de SMTP (outgoing mail). In mod normal \"localhost\", daca nu doresti sa folosesti un server extern pentru mail."
 
@@ -6718,7 +6666,6 @@ msgstr "Adauga un Grup"
 
 #. Default: "Add new…"
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:404
-#, fuzzy
 msgid "label_add_new_item"
 msgstr "Adauga..."
 
@@ -6746,14 +6693,12 @@ msgstr "Adauga la urmatoarele grupuri:"
 #. Default: "iCal"
 #: CMFPlone/skins/plone_content/event_view.pt:146
 #: plone.app.event/plone/app/event/browser/event_view.pt:176
-#, fuzzy
 msgid "label_add_to_ical"
 msgstr "iCal (Mac OS X)"
 
 #. Default: "vCal"
 #: CMFPlone/skins/plone_content/event_view.pt:140
 #: plone.app.event/plone/app/event/browser/event_view.pt:170
-#, fuzzy
 msgid "label_add_to_vcal"
 msgstr "vCal (Windows, Linux)"
 
@@ -6771,7 +6716,6 @@ msgstr "Adauga utilizatorii si grupurile selectate la acest grup"
 
 #. Default: "Advanced..."
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:641
-#, fuzzy
 msgid "label_advanced"
 msgstr "Avansat"
 
@@ -6779,7 +6723,6 @@ msgstr "Avansat"
 #: CMFPlone/skins/plone_scripts/livesearch_reply.py:94
 #: plone.app.layout/plone/app/layout/viewlets/searchbox.pt:55
 #: plone.app.portlets/plone/app/portlets/portlets/search.pt:46
-#, fuzzy
 msgid "label_advanced_search"
 msgstr "Cautare Avansata"
 
@@ -6858,19 +6801,16 @@ msgstr "Autor"
 
 #. Default: "Author's external home page…"
 #: CMFPlone/skins/plone_content/author.cpt:137
-#, fuzzy
 msgid "label_author_external_home_page"
 msgstr "Pagina externa a autorului"
 
 #. Default: "Author's home page in this site…"
 #: CMFPlone/skins/plone_content/author.cpt:132
-#, fuzzy
 msgid "label_author_internal_home_page"
 msgstr "Pagina personala a autorului pe acest site"
 
 #. Default: "Back to Add-ons"
 #: CMFPlone/skins/plone_prefs/prefs_install_product_readme.pt:20
-#, fuzzy
 msgid "label_back_to_addremove_products"
 msgstr "Inapoi la Adauga/Sterge Produse"
 
@@ -6910,7 +6850,6 @@ msgstr "Parcurge"
 #: CMFPlone/skins/plone_content/folder_listing.pt:138
 #: CMFPlone/skins/plone_content/folder_summary_view.pt:73
 #: CMFPlone/skins/plone_deprecated/search.pt:172
-#, fuzzy
 msgid "label_by_author"
 msgstr "Autor: ${author} "
 
@@ -6973,7 +6912,6 @@ msgstr "Schimba obiectul setat ca si model implicit"
 
 #. Default: "Change content item\nas default view..."
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:387
-#, fuzzy
 msgid "label_change_item"
 msgstr "Modifica elementul "
 
@@ -7016,13 +6954,11 @@ msgstr ""
 
 #. Default: "Choose a content item…"
 #: CMFPlone/skins/plone_forms/select_default_view.cpt:55
-#, fuzzy
 msgid "label_choose_content_item"
 msgstr "Alege un element de continut"
 
 #. Default: "Select a content item\nas default view..."
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:361
-#, fuzzy
 msgid "label_choose_item"
 msgstr "Alege un element"
 
@@ -7040,13 +6976,11 @@ msgstr "Nu mai afisa aceste intrari"
 #: CMFPlone/skins/plone_login/failsafe_login_form.cpt:123
 #: CMFPlone/skins/plone_login/login_form.cpt:286
 #: plone.app.openid/plone/app/openid/skins/ploneopenid/login_form.cpt:151
-#, fuzzy
 msgid "label_click_here_to_retrieve"
 msgstr "apasa aici pentru a o recupera"
 
 #. Default: "Click to view full-size image…"
 #: CMFPlone/skins/plone_content/image_view.pt:22
-#, fuzzy
 msgid "label_click_to_view_full_image"
 msgstr "Apasa aici pentru a vedea imaginea in marime reala"
 
@@ -7181,7 +7115,6 @@ msgstr "Copiaza in prezent"
 
 #. Default: "Rights"
 #: Archetypes/ExtensibleMetadata.py:172
-#, fuzzy
 msgid "label_copyrights"
 msgstr "Drepturi de autor"
 
@@ -7358,7 +7291,6 @@ msgstr "Permite editarea Numelor Scurte"
 #. Default: "Publishing Date"
 #: Archetypes/ExtensibleMetadata.py:138
 #: CMFPlone/skins/plone_forms/content_status_history.cpt:220
-#, fuzzy
 msgid "label_effective_date"
 msgstr "Data Efectiva"
 
@@ -7402,7 +7334,6 @@ msgstr "Valoare Eroare"
 
 #. Default: "Event body text"
 #: widget label of RichWidget - description ""
-#, fuzzy
 msgid "label_event_announcement"
 msgstr "Anunt Eveniment"
 
@@ -7667,13 +7598,11 @@ msgstr "Subtitlu Imagine"
 
 #. Default: "Allowed types"
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:132
-#, fuzzy
 msgid "label_immediately_addable_types"
 msgstr "Tipuri preferate"
 
 #. Default: "Include contained items"
 #: CMFPlone/skins/plone_forms/content_status_history.cpt:207
-#, fuzzy
 msgid "label_include_contained_objects"
 msgstr "Include elementele directorului"
 
@@ -7738,7 +7667,6 @@ msgstr "Listat in cautari"
 
 #. Default: "Secondary types"
 #: CMFPlone/skins/plone_forms/folder_constraintypes_form.cpt:176
-#, fuzzy
 msgid "label_locally_allowed_types"
 msgstr "Tipuri adaugabile"
 
@@ -7797,7 +7725,6 @@ msgstr "Design"
 
 #. Default: "Send a confirmation mail with a link to set the password"
 #: plone.app.users/plone/app/users/browser/register.py:66
-#, fuzzy
 msgid "label_mail_password"
 msgstr "Iti trimit parola prin mail?"
 
@@ -8048,7 +7975,6 @@ msgstr ""
 
 #. Default: "Plone<sup>&reg;</sup> Open Source CMS/WCM"
 #: plone.app.layout/plone/app/layout/viewlets/footer.pt:11
-#, fuzzy
 msgid "label_plone_cms"
 msgstr "Sistemul Open Source de management al Continutului Plone<sup>&reg;</sup>"
 
@@ -8110,7 +8036,6 @@ msgstr "Portret"
 
 #. Default: "Powered by Plone & Python"
 #: plone.app.layout/plone/app/layout/viewlets/colophon.pt:8
-#, fuzzy
 msgid "label_powered_by_plone"
 msgstr "Realizat cu Plone, Sistemul Open Source de Management al Continutului"
 
@@ -8205,7 +8130,6 @@ msgstr "Sterge"
 #. Default: "Remove from selected groups"
 #: CMFPlone/skins/plone_deprecated/prefs_user_memberships.pt:123
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups_usermembership.pt:114
-#, fuzzy
 msgid "label_remove_selected_groups"
 msgstr "Sterge grupurile selectate"
 
@@ -8334,7 +8258,6 @@ msgstr ""
 
 #. Default: "Search text"
 #: CMFPlone/skins/plone_deprecated/search_form.pt:45
-#, fuzzy
 msgid "label_search_text"
 msgstr "Text de Cautare"
 
@@ -8368,7 +8291,6 @@ msgstr "Selecteaza toate elementele"
 
 #. Default: "Select a content item…"
 #: CMFPlone/skins/plone_forms/select_default_view.cpt:64
-#, fuzzy
 msgid "label_select_content_item"
 msgstr "Selecteaza un element de continut"
 
@@ -8868,7 +8790,6 @@ msgstr "Detalii navigare"
 
 #. Default: "You are not logged in. You may optionally enter your username and password below. If you don't enter anything, this comment will be posted as 'Anonymous User'."
 #: CMFPlone/skins/plone_forms/discussion_reply_form.cpt:90
-#, fuzzy
 msgid "legend_note_reply_anonymous"
 msgstr "Nota: nu esti autentificat. Ai posibilitatea sa iti introduci numele de utilizator si parola mai jos. Daca nu le vei introduce, acest comentariu va fi postat ca si 'Utilizator Anonim'."
 
@@ -9023,14 +8944,12 @@ msgstr "Adresa Email"
 #: CMFPlone/skins/plone_deprecated/prefs_groups_overview.cpt:154
 #: CMFPlone/skins/plone_deprecated/prefs_user_memberships.pt:95
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups_groupsoverview.pt:160
-#, fuzzy
 msgid "listingheader_group_name"
 msgstr "Nume grup"
 
 #. Default: "Remove"
 #: CMFPlone/skins/plone_deprecated/prefs_user_memberships.pt:96
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups_usermembership.pt:88
-#, fuzzy
 msgid "listingheader_group_remove"
 msgstr "Sterge grupul"
 
@@ -9125,7 +9044,6 @@ msgstr ""
 #: CMFPlone/skins/plone_login/external_login_return.cpt:38
 #: CMFPlone/skins/plone_login/failsafe_login_form.cpt:58
 #: CMFPlone/skins/plone_login/login_form.cpt:69
-#, fuzzy
 msgid "login_form_disabled"
 msgstr "Atata timp cat autentificarea cu cookie este dezactivata, login-ul bazat pe cookies nu este disponibil."
 
@@ -9335,7 +9253,6 @@ msgstr "publicat"
 #: CMFPlone/skins/plone_content/folder_full_view_item.pt:67
 #: CMFPlone/skins/plone_content/folder_summary_view.pt:101
 #: CMFPlone/skins/plone_templates/events_listing.pt:93
-#, fuzzy
 msgid "read_more"
 msgstr "Citeste Restul"
 
@@ -9392,7 +9309,6 @@ msgstr ""
 
 #. Default: "Did you not find what you were looking for? Try the ${advanced_search} to refine your search."
 #: CMFPlone/skins/plone_deprecated/search.pt:63
-#, fuzzy
 msgid "search_results_advanced"
 msgstr "Nu ai gasit ce cautai? Incearca ${advanced_search} pentru optiuni de cautare mai precise."
 
@@ -9403,7 +9319,6 @@ msgstr "cautarea avansata"
 
 #. Default: "This link is sent to you from ${portal_url} You are receiving this mail because someone read a page at ${portal_title} and thought it might interest you. It is sent by ${from_address} with the following comment: \"${comment}\" ${document_title} ${document_description} ${document_url}"
 #: CMFPlone/skins/plone_templates/sendto_template.pt:25
-#, fuzzy
 msgid "sendto_mailtemplate_body"
 msgstr "Acest link iti este trimis de la ${portal_url}. Primesti acest mesaj deoarece cineva a citit o pagina la ${portal_title} si s-a gandit ca te-ar putea interesa. Este trimis de catre ${from_address} cu urmatorul comentariu: \" ${comment} \" ${document_title} ${document_description} ${document_url}"
 
@@ -9435,7 +9350,6 @@ msgstr ""
 
 #. Default: "You are receiving this mail because ${fullname} ${from_address} is sending feedback about the site you administer at ${url}."
 #: CMFPlone/skins/plone_templates/site_feedback_template.pt:18
-#, fuzzy
 msgid "site_feedback_mailtemplate_body"
 msgstr "Primesti acest email deoarece ${fullname} ${from_address} iti trimite un feedback asupra portalului administrat de ltine la ${url}. Mesajul trimis a fost:${message}"
 
@@ -9482,7 +9396,6 @@ msgstr "Continut afectat"
 
 #. Default: "Current sharing permissions"
 #: plone.app.workflow/plone/app/workflow/browser/sharing.pt:66
-#, fuzzy
 msgid "summary_assigned_roles"
 msgstr "Roluri locale desemnate in acest moment"
 
@@ -9563,7 +9476,6 @@ msgstr ""
 
 #. Default: "This add-on is not properly installed."
 #: CMFPlone/skins/plone_prefs/prefs_install_products_form.pt:97
-#, fuzzy
 msgid "text_broken_product"
 msgstr "Acest Produs este stricat"
 
@@ -9590,7 +9502,6 @@ msgstr ""
 
 #. Default: "The specified log entry was not found. It may have expired. If you are using a load-balanced ZEO (cluster) setup, try reloading until you get the right server in the cluster."
 #: CMFPlone/skins/plone_prefs/prefs_error_log_showEntry.pt:35
-#, fuzzy
 msgid "text_errlog_notfound"
 msgstr "Inregistrarea specificata din jurnal nu a fost gasita. S-ar putea sa fi expirat."
 
@@ -9601,7 +9512,6 @@ msgstr ""
 
 #. Default: "Your form has not been saved. All changes you have made will be lost."
 #: CMFPlone/browser/jsvariables.py:17
-#, fuzzy
 msgid "text_form_modified_message"
 msgstr "Formularul tau nu a fost salvat. Toate modificarile facute vor fi pierdute"
 
@@ -9659,7 +9569,6 @@ msgstr ""
 #. Default: "Enter a group or user name to search for or click 'Show All'."
 #: CMFPlone/skins/plone_deprecated/prefs_group_members.cpt:289
 #: plone.app.controlpanel/plone/app/controlpanel/usergroups_groupmembership.pt:289
-#, fuzzy
 msgid "text_no_searchstring"
 msgstr "Introdu un grup sau nume de utilizator pentru cautare, sau apasa 'Afiseaza toate'."
 
@@ -9671,7 +9580,6 @@ msgstr ""
 
 #. Default: "No user by that name."
 #: CMFPlone/skins/plone_content/author.cpt:49
-#, fuzzy
 msgid "text_no_user_by_name"
 msgstr "Nu exista utilizator cu acest nume"
 
@@ -9702,7 +9610,6 @@ msgstr ""
 
 #. Default: "Add-on Description"
 #: CMFPlone/skins/plone_prefs/prefs_install_products_form.pt:88
-#, fuzzy
 msgid "text_product_description"
 msgstr "Descrierea Produsului"
 
@@ -9756,7 +9663,6 @@ msgstr "Vreodata"
 #: CMFPlone/skins/plone_forms/content_status_history.cpt:167
 #: plone.app.content/plone/app/content/browser/table.pt:139
 #: plone.app.layout/plone/app/layout/viewlets/document_byline.pt:41
-#, fuzzy
 msgid "time_expired"
 msgstr "expirat"
 
@@ -9790,7 +9696,6 @@ msgstr ""
 
 #. Default: "Actions for the current content item"
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:51
-#, fuzzy
 msgid "title_actions_menu"
 msgstr "Actiuni"
 
@@ -9807,14 +9712,12 @@ msgstr ""
 #. Default: "Download this event in iCal format"
 #: CMFPlone/skins/plone_content/event_view.pt:141
 #: plone.app.event/plone/app/event/browser/event_view.pt:171
-#, fuzzy
 msgid "title_add_to_ical"
 msgstr "Adauga acest element la calendarul tau iCal"
 
 #. Default: "Download this event in vCal format"
 #: CMFPlone/skins/plone_content/event_view.pt:135
 #: plone.app.event/plone/app/event/browser/event_view.pt:165
-#, fuzzy
 msgid "title_add_to_vcal"
 msgstr "adauga acest element la calendarul tau vCal"
 
@@ -9825,7 +9728,6 @@ msgstr ""
 
 #. Default: "This site was built using the Plone Open Source CMS/WCM."
 #: plone.app.layout/plone/app/layout/viewlets/colophon.pt:8
-#, fuzzy
 msgid "title_built_with_plone"
 msgstr "Acest site a fost construit folosind Sistemul de Management al Continutului Plone. Acceseaza acest link pentru mai multe informatii."
 
@@ -9877,7 +9779,6 @@ msgstr ""
 
 #. Default: "Select the view mode for this folder, or set a content item as its default view."
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:140
-#, fuzzy
 msgid "title_choose_default_view"
 msgstr "Alege pagina implicita"
 
@@ -10040,7 +9941,6 @@ msgstr ""
 
 #. Default: "Subscribe to an always-updated feed of these search terms"
 #: CMFPlone/skins/plone_deprecated/search.pt:126
-#, fuzzy
 msgid "title_rss_feed"
 msgstr "Feed RSS pentru rezultatele acestei cautari"
 
@@ -10101,7 +10001,6 @@ msgstr ""
 
 #. Default: [···]
 #: ./utils.py:205
-#, fuzzy
 msgid "title_unset"
 msgstr "[ˇˇˇ]"
 
