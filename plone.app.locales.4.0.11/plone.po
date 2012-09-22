@@ -2546,7 +2546,7 @@ msgstr "Te rugam sa introduci url-ul cu care te autentifici"
 
 #: CMFPlone/skins/plone_login/login_form_validate.vpy:43
 msgid "Please enter your login name."
-msgstr "Te rugam sa introduci numele de login"
+msgstr "Te rugam sa introduci numele de utilizator"
 
 #: CMFPlone/skins/plone_login/login_form_validate.vpy:45
 msgid "Please enter your password."
@@ -5188,17 +5188,17 @@ msgstr "Pentru a accesa aceasta parte a site-ului trebuie sa te autentifici cu n
 #. Default: "Here is the full error message:"
 #: CMFPlone/skins/plone_templates/default_error_message.pt:165
 msgid "description_site_admin_full_error"
-msgstr ""
+msgstr "Aici aveti mesajul intreg de eroare:"
 
 #. Default: "We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for."
 #: CMFPlone/skins/plone_templates/default_error_message.pt:42
 msgid "description_site_error"
-msgstr ""
+msgstr "Ne cerem scuze pentru inconvenienta, dar pagina pe care ai incercat sa o accesezi nu este la aceasta adresa. Poti folosi adresele de mai jos pentru a te ajuta sa gasesti ceea ce cautai."
 
 #. Default: "If you are certain you have the correct web address but are encountering an error, please contact the ${site_admin}."
 #: CMFPlone/skins/plone_templates/default_error_message.pt:49
 msgid "description_site_error_mail_site_admin"
-msgstr ""
+msgstr "Daca esti sigur ca ai adresa corecta si ai dat de o eroare, te rugam sa contactezi pe ${site_admin}."
 
 #. Default: "Thank you."
 #: CMFPlone/skins/plone_templates/default_error_message.pt:55
@@ -7447,7 +7447,7 @@ msgstr "Fisier"
 #: CMFPlone/skins/plone_deprecated/search.pt:196
 #: plone.app.layout/plone/app/layout/viewlets/keywords.pt:7
 msgid "label_filed_under"
-msgstr ""
+msgstr "Tag-uri:"
 
 #. Default: "Attributes"
 #: plone.app.controlpanel/plone/app/controlpanel/filter.py:264
@@ -7706,7 +7706,7 @@ msgstr ""
 #: CMFPlone/skins/plone_login/login_form.cpt:126
 #: plone.app.openid/plone/app/openid/skins/ploneopenid/login_form.cpt:181
 msgid "label_login_name"
-msgstr "Numele de Login"
+msgstr "Utilizator"
 
 #. Default: "Log in to add comments"
 #: plone.app.layout/plone/app/layout/viewlets/comments.pt:32
@@ -8231,7 +8231,7 @@ msgstr "Metadate"
 #. Default: "Ownership"
 #: ./ATContentTypes/content/schemata.py
 msgid "label_schema_ownership"
-msgstr "Proprietate"
+msgstr "Proprietari"
 
 #. Default: "Settings"
 #: ./ATContentTypes/content/schemata.py
@@ -8384,12 +8384,12 @@ msgstr "Afiseaza toate"
 #: CMFPlone/skins/plone_templates/accessibility-info.pt:47
 #: CMFPlone/skins/plone_templates/default_error_message.pt:50
 msgid "label_site_admin"
-msgstr "Administrare Site"
+msgstr "Administratorul Site-ului"
 
 #. Default: "site administration"
 #: CMFPlone/skins/plone_login/insufficient_privileges.pt:19
 msgid "label_site_administration"
-msgstr ""
+msgstr "Administratorul Site-ului"
 
 #. Default: "Site map"
 #: CMFPlone/skins/plone_templates/sitemap.pt:19
@@ -10037,7 +10037,7 @@ msgstr ""
 #. Default: "Allow comments"
 #: plone.app.controlpanel/plone/app/controlpanel/types.pt:87
 msgid "types_controlpanel_allow_discussion"
-msgstr ""
+msgstr "Permite comentarii"
 
 #. Default: "Current workflow:"
 #: plone.app.controlpanel/plone/app/controlpanel/types.pt:143
@@ -10126,17 +10126,17 @@ msgstr ""
 #. Default: "Variable"
 #: plone.app.contentrules/plone/app/contentrules/actions/templates/mail.pt:149
 msgid "variable-contentrules-mailsub"
-msgstr ""
+msgstr "Variabila"
 
 #. Default: "Automatic"
 #: plone.app.controlpanel/plone/app/controlpanel/types.py:42
 msgid "versioning_automatic"
-msgstr ""
+msgstr "Automatic"
 
 #. Default: "Manual"
 #: plone.app.controlpanel/plone/app/controlpanel/types.py:37
 msgid "versioning_manual"
-msgstr ""
+msgstr "Manual"
 
 #. Default: "No versioning"
 #: plone.app.controlpanel/plone/app/controlpanel/types.py:32
@@ -10146,7 +10146,7 @@ msgstr ""
 #. Default: "View changes"
 #: plone.app.iterate/plone/app/iterate/browser/info_checkout.pt:27
 msgid "view_changes"
-msgstr ""
+msgstr "Vezi schimbarile"
 
 #. Default: "visible"
 #: workflow state defined in folder_workflow - title Public Draft
